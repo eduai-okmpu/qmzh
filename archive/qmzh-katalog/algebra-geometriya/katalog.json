@@ -1,0 +1,6616 @@
+{
+ "source": "https://bilimland.kz/kk/plans, https://bilimland.kz/ru/plans",
+ "retrieved": "2026-11-07",
+ "plans": [
+  {
+   "id": 12,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/12",
+   "pdf": "https://bilimland.kz/kk/plans/12/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/12/export-doc",
+   "title": "Функциялардың периодтылығы",
+   "author": "Шынболатова Ғайша Жанболатқызы",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Функция, оның қасиеттері және графигі",
+   "topic": "Функциялардың периодтылығы",
+   "published": "25.10.2019",
+   "objectives": [
+    "10.5.1.6"
+   ],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 14,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/14",
+   "pdf": "https://bilimland.kz/kk/plans/14/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/14/export-doc",
+   "title": "y = ax² + bx + c квадраттық функциясы, оның қасиеттері және графигі",
+   "author": "Имантаева Гүлшат Сағитбекқызы",
+   "subject": "Алгебра",
+   "grade": "8-сынып",
+   "section": "Квадраттық функция",
+   "topic": "y = ax² + bx + c квадраттық функциясы, оның қасиеттері және графигі",
+   "published": "25.10.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 16,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/16",
+   "pdf": "https://bilimland.kz/kk/plans/16/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/16/export-doc",
+   "title": "Логарифмдік теңдеулер",
+   "author": "Шайхиева Нургул Шияповна",
+   "subject": "Алгебра",
+   "grade": "11-сынып",
+   "section": "Көрсеткіштік және логарифмдік теңдеулер мен теңсіздіктер",
+   "topic": "Логарифмдік теңдеулер",
+   "published": "25.10.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 18,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/18",
+   "pdf": "https://bilimland.kz/kk/plans/18/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/18/export-doc",
+   "title": "Туындыны табу ережелері",
+   "author": "Оразова Гульзира Казикызы",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Туынды",
+   "topic": "Туындыны табу ережелері",
+   "published": "25.10.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 45,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/45",
+   "pdf": "https://bilimland.kz/kk/plans/45/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/45/export-doc",
+   "title": "Күрделі функцияның туындысын табу",
+   "author": "Асқарбекова Балымкул Дайрашовна",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Функция, оның қасиеттері және графигі",
+   "topic": "Күрделі функцияның туындысын табу",
+   "published": "28.10.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 47,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/47",
+   "pdf": "https://bilimland.kz/kk/plans/47/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/47/export-doc",
+   "title": "Пирамиданың көлемі",
+   "author": "Омарова Шахмарал Ахметжановна",
+   "subject": "Геометрия",
+   "grade": "11-сынып (ескі)",
+   "section": "Денелердің көлемдері",
+   "topic": "Пирамиданың көлемі",
+   "published": "28.10.2019",
+   "objectives": [],
+   "match": "ескі бағдарлама"
+  },
+  {
+   "id": 48,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/48",
+   "pdf": "https://bilimland.kz/kk/plans/48/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/48/export-doc",
+   "title": "Түзу мен жазықтық арасындағы бұрыш",
+   "author": "Буркенов Наркен Советканович",
+   "subject": "Геометрия",
+   "grade": "10-сынып (ескі)",
+   "section": "Түзулердің және жазықтықтардың кеңістікте орналасуы. Түзулердің және жазықтықтардың параллельдігі",
+   "topic": "Түзу мен жазықтық арасындағы бұрыш",
+   "published": "28.10.2019",
+   "objectives": [
+    "10.5.3.1"
+   ],
+   "match": "ескі бағдарлама"
+  },
+  {
+   "id": 78,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/78",
+   "pdf": "https://bilimland.kz/kk/plans/78/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/78/export-doc",
+   "title": "Кеңістіктегі тікбұрышты координаталар жүйесі. Екі нүктенің арасындағы қашықтық",
+   "author": "Геометрия",
+   "subject": "Геометрия",
+   "grade": "10-сынып (ескі)",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі. Кеңістіктегі векторлар",
+   "topic": "Кеңістіктегі тікбұрышты координаталар жүйесі. Екі нүктенің арасындағы қашықтық",
+   "published": "29.10.2019",
+   "objectives": [
+    "10.3.3.4"
+   ],
+   "match": "ескі бағдарлама"
+  },
+  {
+   "id": 119,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/119",
+   "pdf": "https://bilimland.kz/kk/plans/119/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/119/export-doc",
+   "title": "Негізгі тригонометриялық тепе-теңдіктер",
+   "author": "Имантаева Гүлшат Сагитбекқызы",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Пифагор теоремасы",
+   "topic": "Негізгі тригонометриялық тепе-теңдіктер",
+   "published": "07.11.2019",
+   "objectives": [
+    "8.1.3.5"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 158,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/158",
+   "pdf": "https://bilimland.kz/kk/plans/158/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/158/export-doc",
+   "title": "Қарапайым тригонометриялық теңдеулерді шешу",
+   "author": "Сарин Тимур Берікбайұлы",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Тригонометриялық теңдеу және теңсіздік",
+   "topic": "Қарапайым тригонометриялық теңдеулерді шешу",
+   "published": "13.11.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 160,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/160",
+   "pdf": "https://bilimland.kz/kk/plans/160/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/160/export-doc",
+   "title": "Қарапайым тригонометриялық теңдеулерді шешу",
+   "author": "Сарин Тимур Берікбайұлы",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Тригонометриялық теңдеу және теңсіздік",
+   "topic": "Қарапайым тригонометриялық теңдеулерді шешу",
+   "published": "13.11.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 163,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/163",
+   "pdf": "https://bilimland.kz/kk/plans/163/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/163/export-doc",
+   "title": "Ықтималдықтар теориясының негіздері",
+   "author": "САГИДУЛЛИНА ДАРИГУЛЬ САИНОВНА",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Ықтималдықтар теориясы мен математикалық статистика элементтері",
+   "topic": "Ықтималдықтар теориясының негіздері",
+   "published": "14.11.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 190,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/190",
+   "pdf": "https://bilimland.kz/kk/plans/190/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/190/export-doc",
+   "title": "Сандар тізбегі, оның берілу тәсілдері және қасиеттері",
+   "author": "Егізбай Ақбота Жұманазарқызы",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Сандар тізбегі",
+   "topic": "Сандар тізбегі, оның берілу тәсілдері және қасиеттері",
+   "published": "18.11.2019",
+   "objectives": [
+    "9.2.3.2"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 295,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/295",
+   "pdf": "https://bilimland.kz/kk/plans/295/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/295/export-doc",
+   "title": "Екі өрнектің кубтарының қосындысы және екі өрнектің кубтарының айырмасының формулалары",
+   "author": "Самартаева Карлыгаш Жанболатовна",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Екі өрнектің кубтарының қосындысы және екі өрнектің кубтарының айырмасының формулалары",
+   "published": "06.12.2019",
+   "objectives": [],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 453,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/453",
+   "pdf": "https://bilimland.kz/kk/plans/453/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/453/export-doc",
+   "title": "Натурал көрсеткішті дәреженің анықтамасы",
+   "author": "САГИДУЛЛИНА ДАРИГУЛЬ САИНОВНА",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Натурал көрсеткішті дәреженің анықтамасы",
+   "published": "21.12.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 817,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/817",
+   "pdf": "https://bilimland.kz/kk/plans/817/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/817/export-doc",
+   "title": "Тік цилиндр, оның элементтері. Цилиндрдің жазықтықпен қималары",
+   "author": "Bakitzhanov Aibek Zhaksygali",
+   "subject": "Геометрия",
+   "grade": "11-сынып (ескі)",
+   "section": "Айналу денелері",
+   "topic": "Тік цилиндр, оның элементтері. Цилиндрдің жазықтықпен қималары",
+   "published": "26.12.2019",
+   "objectives": [],
+   "match": "ескі бағдарлама"
+  },
+  {
+   "id": 919,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/919",
+   "pdf": "https://bilimland.kz/kk/plans/919/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/919/export-doc",
+   "title": "Натурал көрсеткішті дәреже және оның қасиеттері",
+   "author": "Шынтас Мәншук Шынтасқызы",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Натурал көрсеткішті дәреже және оның қасиеттері",
+   "published": "27.12.2019",
+   "objectives": [
+    "7.1.2.1",
+    "7.1.2.15"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 923,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/923",
+   "pdf": "https://bilimland.kz/kk/plans/923/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/923/export-doc",
+   "title": "Квадрат теңдеу",
+   "author": "Сегизбаева Нургуль Сенбаевна",
+   "subject": "Алгебра",
+   "grade": "8-сынып",
+   "section": "Квадрат теңдеулер",
+   "topic": "Квадрат теңдеу",
+   "published": "27.12.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 929,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/929",
+   "pdf": "https://bilimland.kz/kk/plans/929/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/929/export-doc",
+   "title": "Геометриялық  прогрессия",
+   "author": "Сегизбаева Нургуль Сенбаевна",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Сандар тізбегі",
+   "topic": "Геометриялық  прогрессия",
+   "published": "27.12.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 950,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/950",
+   "pdf": "https://bilimland.kz/kk/plans/950/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/950/export-doc",
+   "title": "Параллелограмм ауданы",
+   "author": "Муханова Айжан Айжарыковна",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Фигураның ауданы",
+   "topic": "Параллелограмм ауданы",
+   "published": "27.12.2019",
+   "objectives": [],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 1348,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1348",
+   "pdf": "https://bilimland.kz/kk/plans/1348/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1348/export-doc",
+   "title": "Виет теоремасы",
+   "author": "ТАЖИЕВА КАМАР КУМИСБАЕВНА",
+   "subject": "Алгебра",
+   "grade": "8-сынып",
+   "section": "Квадрат теңдеулер",
+   "topic": "Виет теоремасы",
+   "published": "28.12.2019",
+   "objectives": [],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 1372,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1372",
+   "pdf": "https://bilimland.kz/kk/plans/1372/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1372/export-doc",
+   "title": "тік бұрышты үшбұрыштарды шешу.",
+   "author": "Туймебаева Кулшат Куанышкалиевна",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Пифагор теоремасы",
+   "topic": "тік бұрышты үшбұрыштарды шешу.",
+   "published": "28.12.2019",
+   "objectives": [
+    "8.1.3.7"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 1428,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1428",
+   "pdf": "https://bilimland.kz/kk/plans/1428/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1428/export-doc",
+   "title": "Арифметикалық прогрессия. Арифметикалық прогрессияның  п-мүшесінің формуласы",
+   "author": "Ахметова Алтынай Бекболовна",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Сандар тізбегі",
+   "topic": "Арифметикалық прогрессия. Арифметикалық прогрессияның  п-мүшесінің формуласы",
+   "published": "30.12.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 1738,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1738",
+   "pdf": "https://bilimland.kz/kk/plans/1738/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1738/export-doc",
+   "title": "Үшбұрыштың ішкі бұрыштарының қосындысы, сыртқы бұрыштар қайталау жинақтау сабағы",
+   "author": "Мамбетова Акзира Шериповна",
+   "subject": "Геометрия",
+   "grade": "7-сынып",
+   "section": "Үшбұрыштар",
+   "topic": "Үшбұрыштың ішкі бұрыштарының қосындысы, сыртқы бұрыштар қайталау жинақтау сабағы",
+   "published": "05.01.2020",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 1780,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1780",
+   "pdf": "https://bilimland.kz/kk/plans/1780/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1780/export-doc",
+   "title": "Қысқаша  көбейту формулалары",
+   "author": "Сапахова Нарима Омирзаковна",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Қысқаша  көбейту формулалары",
+   "published": "08.01.2020",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 1880,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1880",
+   "pdf": "https://bilimland.kz/kk/plans/1880/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1880/export-doc",
+   "title": "Аудан",
+   "author": "Жанбауова Маруан Сакеновна",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Фигураның ауданы",
+   "topic": "Аудан",
+   "published": "16.01.2020",
+   "objectives": [],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 1930,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1930",
+   "pdf": "https://bilimland.kz/kk/plans/1930/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1930/export-doc",
+   "title": "Натурал көрсеткішті дәреже және оның қасиеттері",
+   "author": "Джуманова Хадиша Алиевна",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Натурал көрсеткішті дәреже және оның қасиеттері",
+   "published": "20.01.2020",
+   "objectives": [
+    "7.1.2.2",
+    "7.1.2.3",
+    "7.2.1.1",
+    "7.2.1.3",
+    "7.3.3.1"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 1947,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1947",
+   "pdf": "https://bilimland.kz/kk/plans/1947/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1947/export-doc",
+   "title": "Дәрежесі бар өрнектерді түрлендіру",
+   "author": "Джуманова Хадиша Алиевна",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Дәрежесі бар өрнектерді түрлендіру",
+   "published": "21.01.2020",
+   "objectives": [
+    "7.1.2.3",
+    "7.2.1.1"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 1957,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1957",
+   "pdf": "https://bilimland.kz/kk/plans/1957/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1957/export-doc",
+   "title": "Құрамында дәрежесі бар сандық тізбектер",
+   "author": "Мамыров Рүстем Темірұлы",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Құрамында дәрежесі бар сандық тізбектер",
+   "published": "21.01.2020",
+   "objectives": [
+    "7.2.3.1"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 1968,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1968",
+   "pdf": "https://bilimland.kz/kk/plans/1968/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1968/export-doc",
+   "title": "Фигуралардың теңдігі",
+   "author": "Мамыров Рүстем Темірұлы",
+   "subject": "Геометрия",
+   "grade": "7-сынып",
+   "section": "Геометрияның алғашқы мәліметтері",
+   "topic": "Фигуралардың теңдігі",
+   "published": "22.01.2020",
+   "objectives": [
+    "7.3.1.11",
+    "7.3.1.7"
+   ],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 1971,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1971",
+   "pdf": "https://bilimland.kz/kk/plans/1971/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1971/export-doc",
+   "title": "Санның стандарт түрі",
+   "author": "Мамыров Рүстем Темірұлы",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Санның стандарт түрі",
+   "published": "23.01.2020",
+   "objectives": [
+    "7.1.1.1",
+    "7.1.1.2"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 1972,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/1972",
+   "pdf": "https://bilimland.kz/kk/plans/1972/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/1972/export-doc",
+   "title": "Теоремаларды дәлелдеу әдістері: тікелей әдіс және «қарсы жору» әдісі",
+   "author": "Мамыров Рүстем Темірұлы",
+   "subject": "Геометрия",
+   "grade": "7-сынып",
+   "section": "Геометрияның алғашқы мәліметтері",
+   "topic": "Теоремаларды дәлелдеу әдістері: тікелей әдіс және «қарсы жору» әдісі",
+   "published": "23.01.2020",
+   "objectives": [
+    "7.3.1.4"
+   ],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 2021,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2021",
+   "pdf": "https://bilimland.kz/kk/plans/2021/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2021/export-doc",
+   "title": "Натурал көрсеткішті дәреже және оның қасиеттері",
+   "author": "Бекмурзаева Гулнара Альмахановна",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Натурал көрсеткішті дәреже және оның қасиеттері",
+   "published": "23.01.2020",
+   "objectives": [
+    "7.1.2.1",
+    "7.1.2.15"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2298,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2298",
+   "pdf": "https://bilimland.kz/kk/plans/2298/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2298/export-doc",
+   "title": "Екі айнымалысы бар теңдеулер және оның геометриялық мағынасы",
+   "author": "Аблаева Ляззат Абиловна",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Теңдеулер, теңсіздіктер және олардың жүйелері",
+   "topic": "Екі айнымалысы бар теңдеулер және оның геометриялық мағынасы",
+   "published": "28.01.2020",
+   "objectives": [
+    "9.2.2.1",
+    "9.2.2.2"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2299,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2299",
+   "pdf": "https://bilimland.kz/kk/plans/2299/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2299/export-doc",
+   "title": "Екі айнымалысы бар теңдеулер және оның геометриялық мағынасы",
+   "author": "Аблаева Ляззат Абиловна",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Теңдеулер, теңсіздіктер және олардың жүйелері",
+   "topic": "Екі айнымалысы бар теңдеулер және оның геометриялық мағынасы",
+   "published": "28.01.2020",
+   "objectives": [
+    "9.2.2.1",
+    "9.2.2.2"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2343,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2343",
+   "pdf": "https://bilimland.kz/kk/plans/2343/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2343/export-doc",
+   "title": "Екі өрнектің қосындысы мен айырмасының квадраты",
+   "author": "Берген Ақерке Сауытқызы",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Екі өрнектің қосындысы мен айырмасының квадраты",
+   "published": "28.01.2020",
+   "objectives": [],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 2426,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2426",
+   "pdf": "https://bilimland.kz/kk/plans/2426/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2426/export-doc",
+   "title": "Тригонометриялық функциялар және олардың қасиеттері",
+   "author": "Ахметова Алтынай Бекболовна",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Тригонометрия элементтері",
+   "topic": "Тригонометриялық функциялар және олардың қасиеттері",
+   "published": "29.01.2020",
+   "objectives": [
+    "9.2.4.6"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2443,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2443",
+   "pdf": "https://bilimland.kz/kk/plans/2443/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2443/export-doc",
+   "title": "Тригонометриялық тепе-теңдіктерді тиімді қолдану",
+   "author": "Сарин Тимур Берікбайұлы",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Тригонометриялық теңдеу және теңсіздік",
+   "topic": "Тригонометриялық тепе-теңдіктерді тиімді қолдану",
+   "published": "29.01.2020",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 2545,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2545",
+   "pdf": "https://bilimland.kz/kk/plans/2545/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2545/export-doc",
+   "title": "Негізгі тригонометриялық тепе-теңдіктер",
+   "author": "ЖУСУПБЕКОВА ГАЛИЯ ЕСЛАМХАНОВНА",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Тригонометрия элементтері",
+   "topic": "Негізгі тригонометриялық тепе-теңдіктер",
+   "published": "29.01.2020",
+   "objectives": [
+    "9.2.4.7",
+    "9.2.4.8"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2575,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2575",
+   "pdf": "https://bilimland.kz/kk/plans/2575/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2575/export-doc",
+   "title": "Үшбұрыштар ауданы",
+   "author": "Байкадамова Ботакөз Бертскановна",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Фигураның ауданы",
+   "topic": "Үшбұрыштар ауданы",
+   "published": "29.01.2020",
+   "objectives": [
+    "8.3.3.12"
+   ],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 2663,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2663",
+   "pdf": "https://bilimland.kz/kk/plans/2663/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2663/export-doc",
+   "title": "Екі өрнектің қосындысының кубы мен айырымының кубы формуласы",
+   "author": "Кабдыкаримова Мадина Танатовна",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Екі өрнектің қосындысының кубы мен айырымының кубы формуласы",
+   "published": "30.01.2020",
+   "objectives": [
+    "7.2.1.11"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2859,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2859",
+   "pdf": "https://bilimland.kz/kk/plans/2859/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2859/export-doc",
+   "title": "Екі өрнектің қосындысының квадраты мен  айырмасының квадраты",
+   "author": "Смағұл Жетпіс Әбдіғалиұлы",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Екі өрнектің қосындысының квадраты мен  айырмасының квадраты",
+   "published": "31.01.2020",
+   "objectives": [
+    "7.2.1.10"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2904,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2904",
+   "pdf": "https://bilimland.kz/kk/plans/2904/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2904/export-doc",
+   "title": "Қысқаша көбейту формулалары",
+   "author": "Укибасова Жумакул Амиржановна",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Қысқаша көбейту формулалары",
+   "published": "01.02.2020",
+   "objectives": [
+    "7.1.2.14",
+    "7.1.2.15"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2927,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/2927",
+   "pdf": "https://bilimland.kz/kk/plans/2927/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/2927/export-doc",
+   "title": "Квадраттық функция  және оның графигі",
+   "author": "Қайырбай Еламан Сәлімжан",
+   "subject": "Алгебра",
+   "grade": "8-сынып",
+   "section": "Квадраттық функция",
+   "topic": "Квадраттық функция  және оның графигі",
+   "published": "03.02.2020",
+   "objectives": [
+    "8.4.1.2"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3167,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3167",
+   "pdf": "https://bilimland.kz/kk/plans/3167/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3167/export-doc",
+   "title": "Қысқаша көбейту формулалары. Екі өрнектің қосындысының және  айырымының квадраттарының формулалары.",
+   "author": "Карсакбаев Жасын Жасын",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Қысқаша көбейту формулалары. Екі өрнектің қосындысының және  айырымының квадраттарының формулалары.",
+   "published": "07.02.2020",
+   "objectives": [
+    "7.2.1.10"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3174,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3174",
+   "pdf": "https://bilimland.kz/kk/plans/3174/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3174/export-doc",
+   "title": "Үшбұрыш бұрыштарының қосындысы. Үшбұрыштың сыртқы бұрышы.",
+   "author": "Альмуханова Айнур Каиржановна",
+   "subject": "Геометрия",
+   "grade": "7-сынып",
+   "section": "Түзулердің өзара орналасуы",
+   "topic": "Үшбұрыш бұрыштарының қосындысы. Үшбұрыштың сыртқы бұрышы.",
+   "published": "07.02.2020",
+   "objectives": [
+    "7.1.1.16",
+    "7.1.1.17"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3178,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3178",
+   "pdf": "https://bilimland.kz/kk/plans/3178/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3178/export-doc",
+   "title": "Екі өрнектің қосыдысы мен айырымының формулалары",
+   "author": "Бектурганова Аийда Сапархановна",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Екі өрнектің қосыдысы мен айырымының формулалары",
+   "published": "07.02.2020",
+   "objectives": [
+    "7.2.1.10"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3208,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3208",
+   "pdf": "https://bilimland.kz/kk/plans/3208/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3208/export-doc",
+   "title": "Квадраттық функция және оның графигі",
+   "author": "Сапахова Нарима Омирзаковна",
+   "subject": "Алгебра",
+   "grade": "8-сынып",
+   "section": "Квадраттық функция",
+   "topic": "Квадраттық функция және оның графигі",
+   "published": "10.02.2020",
+   "objectives": [
+    "8.4.1.3"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3289,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3289",
+   "pdf": "https://bilimland.kz/kk/plans/3289/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3289/export-doc",
+   "title": "Қысқаша көбейту формулаларының көмегімен өрнектерді түрлендіру",
+   "author": "Меңдіғазиева Гулмира Мақсұтқызы",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Қысқаша көбейту формулаларының көмегімен өрнектерді түрлендіру",
+   "published": "11.02.2020",
+   "objectives": [
+    "7.2.1.15"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3292,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3292",
+   "pdf": "https://bilimland.kz/kk/plans/3292/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3292/export-doc",
+   "title": "Үшбұрыштарды шешу",
+   "author": "Жанбауова Маруан Сакеновна",
+   "subject": "Геометрия",
+   "grade": "9-сынып",
+   "section": "Үшбұрыштарды шешу",
+   "topic": "Үшбұрыштарды шешу",
+   "published": "11.02.2020",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 3314,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3314",
+   "pdf": "https://bilimland.kz/kk/plans/3314/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3314/export-doc",
+   "title": "Туындыны табу ережелері",
+   "author": "Аблаева Ляззат Абиловна",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Туынды",
+   "topic": "Туындыны табу ережелері",
+   "published": "11.02.2020",
+   "objectives": [
+    "10.3.1.10",
+    "10.3.1.11"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3409,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3409",
+   "pdf": "https://bilimland.kz/kk/plans/3409/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3409/export-doc",
+   "title": "Ұқсас фигуралар және олардың қасиеттері. Үшбұрыштар ұқсастығының белгілері",
+   "author": "Ахметова Алтынай Бекболовна",
+   "subject": "Геометрия",
+   "grade": "9-сынып",
+   "section": "Үшбұрыштарды шешу",
+   "topic": "Ұқсас фигуралар және олардың қасиеттері. Үшбұрыштар ұқсастығының белгілері",
+   "published": "12.02.2020",
+   "objectives": [
+    "9.1.4.15"
+   ],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 3420,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3420",
+   "pdf": "https://bilimland.kz/kk/plans/3420/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3420/export-doc",
+   "title": "Үшбұрыштар теңдігінің белгілері",
+   "author": "Шалкарбаева Гулжайнар Кайруллина",
+   "subject": "Геометрия",
+   "grade": "7-сынып",
+   "section": "Үшбұрыштар",
+   "topic": "Үшбұрыштар теңдігінің белгілері",
+   "published": "12.02.2020",
+   "objectives": [
+    "7.1.1.21",
+    "7.1.1.22"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3623,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3623",
+   "pdf": "https://bilimland.kz/kk/plans/3623/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3623/export-doc",
+   "title": "Трапеция ауданы",
+   "author": "Қайырбай Еламан Сәлімжан",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Фигураның ауданы",
+   "topic": "Трапеция ауданы",
+   "published": "14.02.2020",
+   "objectives": [
+    "8.1.3.13"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3734,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3734",
+   "pdf": "https://bilimland.kz/kk/plans/3734/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3734/export-doc",
+   "title": "Санның стандарт түрі. Үлкен және кіші шамаларға берілген мәтін есептерді шешу",
+   "author": "Аубекерова Фаруза Сатаевна",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Санның стандарт түрі. Үлкен және кіші шамаларға берілген мәтін есептерді шешу",
+   "published": "17.02.2020",
+   "objectives": [
+    "7.1.1.1",
+    "7.1.2.7",
+    "7.1.2.8",
+    "7.1.2.9"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3744,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3744",
+   "pdf": "https://bilimland.kz/kk/plans/3744/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3744/export-doc",
+   "title": "Тікбұрышты үшбұрыштарды шешу",
+   "author": "Қайырбай Еламан Сәлімжан",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Төртбұрыштар",
+   "topic": "Тікбұрышты үшбұрыштарды шешу",
+   "published": "17.02.2020",
+   "objectives": [
+    "8.1.3.6"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3762,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3762",
+   "pdf": "https://bilimland.kz/kk/plans/3762/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3762/export-doc",
+   "title": "Кеңістіктегі векторлардың координаталары",
+   "author": "Нургалиева Жумагуль Издашовна",
+   "subject": "Геометрия",
+   "grade": "10-сынып (Бейімді оқыту)",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Кеңістіктегі векторлардың координаталары",
+   "published": "17.02.2020",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 3767,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3767",
+   "pdf": "https://bilimland.kz/kk/plans/3767/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3767/export-doc",
+   "title": "Қозғалыс, параллель көшіру және оның қасиеттері.",
+   "author": "ОРАЗЫМБЕТОВА ТАМАРА ДУРМЕНТАЕВНА",
+   "subject": "Геометрия",
+   "grade": "9-сынып",
+   "section": "Жазықтықтағы түрлендірулер",
+   "topic": "Қозғалыс, параллель көшіру және оның қасиеттері.",
+   "published": "17.02.2020",
+   "objectives": [
+    "9.1.4.9"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3806,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3806",
+   "pdf": "https://bilimland.kz/kk/plans/3806/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3806/export-doc",
+   "title": "Тікбұрышты үшбұрыштың сүйір бұрышының тригонометриялық функциялары",
+   "author": "Оралбаева Гульмира Рахимбердиевна",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Пифагор теоремасы",
+   "topic": "Тікбұрышты үшбұрыштың сүйір бұрышының тригонометриялық функциялары",
+   "published": "17.02.2020",
+   "objectives": [
+    "8.1.3.2"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3815,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3815",
+   "pdf": "https://bilimland.kz/kk/plans/3815/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3815/export-doc",
+   "title": "Тpaпeция, oның түpлepі мeн қacиeттepі.",
+   "author": "Хабибуллина Жадыра Дидарқызы",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Жазықтықтағы тікбұрышты координаталар жүйесі",
+   "topic": "Тpaпeция, oның түpлepі мeн қacиeттepі.",
+   "published": "17.02.2020",
+   "objectives": [
+    "8.1.1.11"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3844,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3844",
+   "pdf": "https://bilimland.kz/kk/plans/3844/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3844/export-doc",
+   "title": "Функцияның өсу және кему белгілері",
+   "author": "Жекебай Дилдаш",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Туындының қолданылуы",
+   "topic": "Функцияның өсу және кему белгілері",
+   "published": "18.02.2020",
+   "objectives": [
+    "10.3.1.15"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3893,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/3893",
+   "pdf": "https://bilimland.kz/kk/plans/3893/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/3893/export-doc",
+   "title": "Квадрат үшмүше",
+   "author": "Дюсекова Нуржан Рашевна",
+   "subject": "Алгебра",
+   "grade": "8-сынып",
+   "section": "Квадрат теңдеулер",
+   "topic": "Квадрат үшмүше",
+   "published": "18.02.2020",
+   "objectives": [
+    "8.2.1.3"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4039,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4039",
+   "pdf": "https://bilimland.kz/kk/plans/4039/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4039/export-doc",
+   "title": "Арифметикалық және геометриялық прогрессиялар",
+   "author": "БЕКБОЛАТ ЕРКЕГУЛ",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Сандар тізбегі",
+   "topic": "Арифметикалық және геометриялық прогрессиялар",
+   "published": "20.02.2020",
+   "objectives": [
+    "9.2.3.5"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4047,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4047",
+   "pdf": "https://bilimland.kz/kk/plans/4047/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4047/export-doc",
+   "title": "Геометрилық прогрессияның алғашқы n мүшесінің қосындысы",
+   "author": "Исмагулова Күлпараш Ауезхановна",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Сандар тізбегі",
+   "topic": "Геометрилық прогрессияның алғашқы n мүшесінің қосындысы",
+   "published": "20.02.2020",
+   "objectives": [
+    "9.2.3.6"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4096,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4096",
+   "pdf": "https://bilimland.kz/kk/plans/4096/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4096/export-doc",
+   "title": "Координатасымен берілген векторларды қосу және азайту, координатасымен берілген векторды санға көбейту",
+   "author": "Жанбауова Маруан Сакеновна",
+   "subject": "Геометрия",
+   "grade": "10-сынып",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Координатасымен берілген векторларды қосу және азайту, координатасымен берілген векторды санға көбейту",
+   "published": "20.02.2020",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 4232,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4232",
+   "pdf": "https://bilimland.kz/kk/plans/4232/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4232/export-doc",
+   "title": "Қысқаша көбейту формулаларын білу және қолдану",
+   "author": "Қайырбай Еламан Сәлімжан",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Қысқаша көбейту формулаларын білу және қолдану",
+   "published": "23.02.2020",
+   "objectives": [
+    "7.2.1.15"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4235,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4235",
+   "pdf": "https://bilimland.kz/kk/plans/4235/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4235/export-doc",
+   "title": "Екі өрнектің квадраттарының қосындысының және айырымының формулалары",
+   "author": "Аубекерова Фаруза Сатаевна",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Екі өрнектің квадраттарының қосындысының және айырымының формулалары",
+   "published": "23.02.2020",
+   "objectives": [
+    "7.2.1.10"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4244,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4244",
+   "pdf": "https://bilimland.kz/kk/plans/4244/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4244/export-doc",
+   "title": "Үшбұрыштар мен төртбұрыштардың аудандары",
+   "author": "Шалкарбаева Гулжайнар Кайруллина",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Фигураның ауданы",
+   "topic": "Үшбұрыштар мен төртбұрыштардың аудандары",
+   "published": "24.02.2020",
+   "objectives": [
+    "8.1.3.11"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4248,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4248",
+   "pdf": "https://bilimland.kz/kk/plans/4248/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4248/export-doc",
+   "title": "Туынды табу ережелері. Есептер шығару",
+   "author": "Сансызбай Айжан",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Туынды",
+   "topic": "Туынды табу ережелері. Есептер шығару",
+   "published": "24.02.2020",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 4300,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4300",
+   "pdf": "https://bilimland.kz/kk/plans/4300/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4300/export-doc",
+   "title": "Квадрат үшмүше",
+   "author": "Тайшикова Акмарал Асылбекқызы",
+   "subject": "Алгебра",
+   "grade": "8-сынып",
+   "section": "Квадрат теңдеулер",
+   "topic": "Квадрат үшмүше",
+   "published": "25.02.2020",
+   "objectives": [
+    "8.2.1.3"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4382,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4382",
+   "pdf": "https://bilimland.kz/kk/plans/4382/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4382/export-doc",
+   "title": "Қос бұрыштың және жарты бұрыштың  формулалары;",
+   "author": "Муратова Батес Такуовна",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Тригонометрия элементтері",
+   "topic": "Қос бұрыштың және жарты бұрыштың  формулалары;",
+   "published": "26.02.2020",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 4414,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4414",
+   "pdf": "https://bilimland.kz/kk/plans/4414/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4414/export-doc",
+   "title": "Туынды табу ережесі. Компьютерді басқару, арифметикалық – логикалық операциялар",
+   "author": "Бахытова Мағрипа Бахытқызы",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Туынды",
+   "topic": "Туынды табу ережесі. Компьютерді басқару, арифметикалық – логикалық операциялар",
+   "published": "27.02.2020",
+   "objectives": [
+    "10.3.1.17",
+    "10.3.1.8"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4518,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4518",
+   "pdf": "https://bilimland.kz/kk/plans/4518/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4518/export-doc",
+   "title": "ҮШБҰРЫШТАР ТЕҢДІГІНІҢ БЕЛГІЛЕРІ",
+   "author": "Тайшикова Акмарал Асылбекқызы",
+   "subject": "Геометрия",
+   "grade": "7-сынып",
+   "section": "Үшбұрыштар",
+   "topic": "ҮШБҰРЫШТАР ТЕҢДІГІНІҢ БЕЛГІЛЕРІ",
+   "published": "28.02.2020",
+   "objectives": [
+    "7.1.1.21",
+    "7.1.1.22"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4568,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4568",
+   "pdf": "https://bilimland.kz/kk/plans/4568/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4568/export-doc",
+   "title": "Күрделі функцияның  туындысы",
+   "author": "Жанбауова Маруан Сакеновна",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Туынды",
+   "topic": "Күрделі функцияның  туындысы",
+   "published": "01.03.2020",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 4597,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4597",
+   "pdf": "https://bilimland.kz/kk/plans/4597/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4597/export-doc",
+   "title": "Бұрыштың радиандық өлшемі. Бірлік шеңбер.",
+   "author": "Ахметова Алтынай Бекболовна",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Тригонометрия элементтері",
+   "topic": "Бұрыштың радиандық өлшемі. Бірлік шеңбер.",
+   "published": "02.03.2020",
+   "objectives": [
+    "9.1.1.1",
+    "9.1.1.2",
+    "9.1.2.1"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4725,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4725",
+   "pdf": "https://bilimland.kz/kk/plans/4725/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4725/export-doc",
+   "title": "Жазықтықтағы тікбұрышты координаталар жүйесі",
+   "author": "Кабдыкаримова Мадина Танатовна",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Жазықтықтағы тікбұрышты координаталар жүйесі",
+   "topic": "Жазықтықтағы тікбұрышты координаталар жүйесі",
+   "published": "11.03.2020",
+   "objectives": [
+    "8.1.3.17",
+    "8.1.3.18"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4849,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4849",
+   "pdf": "https://bilimland.kz/kk/plans/4849/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4849/export-doc",
+   "title": "Үшбұрыштарды шешу",
+   "author": "ИСКАКОВА ГУЛЬДЕН ТЛЕУГАБЫЛОВНА",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Фигураның ауданы",
+   "topic": "Үшбұрыштарды шешу",
+   "published": "18.03.2020",
+   "objectives": [
+    "9.1.3.6",
+    "9.1.3.7",
+    "9.1.3.8",
+    "9.1.3.9"
+   ],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 4906,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/4906",
+   "pdf": "https://bilimland.kz/kk/plans/4906/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/4906/export-doc",
+   "title": "Қысқаша көбейту формулаларының көмегімен өрнектерді түрлендіру",
+   "author": "Жанбауова Маруан Сакеновна",
+   "subject": "Алгебра",
+   "grade": "7-сынып",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Қысқаша көбейту формулаларының көмегімен өрнектерді түрлендіру",
+   "published": "19.03.2020",
+   "objectives": [
+    "7.1.2.14"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 5003,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/5003",
+   "pdf": "https://bilimland.kz/kk/plans/5003/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/5003/export-doc",
+   "title": "Фалес теоремасы",
+   "author": "Кушкимбаева Фарида Ерахметкызы",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Төртбұрыштар",
+   "topic": "Фалес теоремасы",
+   "published": "20.03.2020",
+   "objectives": [
+    "8.1.1.7"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 5083,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/5083",
+   "pdf": "https://bilimland.kz/kk/plans/5083/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/5083/export-doc",
+   "title": "Төртбұрыштар мен үшбұрыштардың аудандары",
+   "author": "Куанышбекова Ардак Иргебаевна",
+   "subject": "Геометрия",
+   "grade": "8-сынып",
+   "section": "Фигураның ауданы",
+   "topic": "Төртбұрыштар мен үшбұрыштардың аудандары",
+   "published": "20.03.2020",
+   "objectives": [
+    "8.1.3.11"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 5482,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/5482",
+   "pdf": "https://bilimland.kz/kk/plans/5482/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/5482/export-doc",
+   "title": "Үшбұрыштарды шешу",
+   "author": "САГИДУЛЛИНА ДАРИГУЛЬ САИНОВНА",
+   "subject": "Геометрия",
+   "grade": "9-сынып",
+   "section": "Үшбұрыштарды шешу",
+   "topic": "Үшбұрыштарды шешу",
+   "published": "30.03.2020",
+   "objectives": [
+    "9.1.3.6"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 6108,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/6108",
+   "pdf": "https://bilimland.kz/kk/plans/6108/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/6108/export-doc",
+   "title": "Комбинаторика негіздері Қайталанатын және қайталанбайтын   орналастырулар, алмастырулар, терулер",
+   "author": "Қожабекова Бағдагүл Жанғазықызы",
+   "subject": "Алгебра",
+   "grade": "10-сынып",
+   "section": "Комбинаторика және Ньютон биномы",
+   "topic": "Комбинаторика негіздері Қайталанатын және қайталанбайтын   орналастырулар, алмастырулар, терулер",
+   "published": "27.04.2021",
+   "objectives": [
+    "10.3.1"
+   ],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 6110,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/6110",
+   "pdf": "https://bilimland.kz/kk/plans/6110/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/6110/export-doc",
+   "title": "Сандар тізбегі,оның берілу тәсілдері және қасиеттері",
+   "author": "akt.25.88",
+   "subject": "Алгебра",
+   "grade": "9-сынып",
+   "section": "Сандар тізбегі",
+   "topic": "Сандар тізбегі,оның берілу тәсілдері және қасиеттері",
+   "published": "27.04.2021",
+   "objectives": [
+    "9.2.3.1",
+    "9.2.3.2"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 6157,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/6157",
+   "pdf": "https://bilimland.kz/kk/plans/6157/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/6157/export-doc",
+   "title": "Кеңістіктегі перпендикуляр және көлбеу. Түзу мен жазықтықтың арасындағы бұрыш",
+   "author": "АБЫЛХАНОВА КУНДЫЗ АМАНГЕЛЬДИНОВНА",
+   "subject": "Геометрия",
+   "grade": "10-сынып",
+   "section": "Кеңістіктегі перпендикулярлық",
+   "topic": "Кеңістіктегі перпендикуляр және көлбеу. Түзу мен жазықтықтың арасындағы бұрыш",
+   "published": "04.11.2021",
+   "objectives": [
+    "10.2.8"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 6324,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/6324",
+   "pdf": "https://bilimland.kz/kk/plans/6324/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/6324/export-doc",
+   "title": "Денелердің көлемдері",
+   "author": "Сулейменова Клара",
+   "subject": "Геометрия",
+   "grade": "11-сынып",
+   "section": "Түзу мен жазықтықтың теңдеулерін кеңістікте қолдану",
+   "topic": "Денелердің көлемдері",
+   "published": "21.06.2024",
+   "objectives": [
+    "11.3.11"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 6366,
+   "lang": "kk",
+   "url": "https://bilimland.kz/kk/plans/6366",
+   "pdf": "https://bilimland.kz/kk/plans/6366/export-pdf",
+   "docx": "https://bilimland.kz/kk/plans/6366/export-doc",
+   "title": "Комбинаторика элементтері",
+   "author": "Конырханова Асем",
+   "subject": "Алгебра",
+   "grade": "11-сынып",
+   "section": "Ықтималдықтар теориясының элементтері",
+   "topic": "Комбинаторика элементтері",
+   "published": "01.11.2024",
+   "objectives": [],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 4,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/4",
+   "pdf": "https://bilimland.kz/ru/plans/4/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/4/export-doc",
+   "title": "Производная функции",
+   "author": "Елюбаева Гайша Ищановна",
+   "subject": "Алгебра",
+   "grade": "10 класс",
+   "section": "Производная",
+   "topic": "Производная функции",
+   "published": "25.10.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 8,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/8",
+   "pdf": "https://bilimland.kz/ru/plans/8/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/8/export-doc",
+   "title": "Формулы приведения",
+   "author": "Асамиданова Гульдана Ибрайкеновна",
+   "subject": "Алгебра",
+   "grade": "9 класс",
+   "section": "Элементы тригонометрии",
+   "topic": "Формулы приведения",
+   "published": "25.10.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 11,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/11",
+   "pdf": "https://bilimland.kz/ru/plans/11/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/11/export-doc",
+   "title": "Уравнения, приводящие к квадратным уравнениям",
+   "author": "Тәшімбет Зияш Мамырқызы",
+   "subject": "Алгебра",
+   "grade": "8 класс",
+   "section": "Квадратные уравнения",
+   "topic": "Уравнения, приводящие к квадратным уравнениям",
+   "published": "25.10.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 13,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/13",
+   "pdf": "https://bilimland.kz/ru/plans/13/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/13/export-doc",
+   "title": "Одночлены и действия над ними",
+   "author": "МИСНИК ЕКАТЕРИНА АЛЕКСАНДРОВНА",
+   "subject": "Алгебра",
+   "grade": "7 класс",
+   "section": "Многочлены",
+   "topic": "Одночлены и действия над ними",
+   "published": "25.10.2019",
+   "objectives": [],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 15,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/15",
+   "pdf": "https://bilimland.kz/ru/plans/15/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/15/export-doc",
+   "title": "Иррациональные неравенства",
+   "author": "Казекешева Гульнара Муратовна",
+   "subject": "Алгебра",
+   "grade": "11 класс",
+   "section": "Степени и корни. Степенная функция",
+   "topic": "Иррациональные неравенства",
+   "published": "25.10.2019",
+   "objectives": [],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 480,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/480",
+   "pdf": "https://bilimland.kz/ru/plans/480/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/480/export-doc",
+   "title": "Арифметическая прогрессия. Формула п-го члена арифметической прогрессии",
+   "author": "Кажкенова Раушан Батаевна",
+   "subject": "Алгебра",
+   "grade": "9 класс",
+   "section": "Числовая последовательность",
+   "topic": "Арифметическая прогрессия. Формула п-го члена арифметической прогрессии",
+   "published": "23.12.2019",
+   "objectives": [
+    "9.2.3.4",
+    "9.2.3.5"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 734,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/734",
+   "pdf": "https://bilimland.kz/ru/plans/734/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/734/export-doc",
+   "title": "Үшбұрыштар теңдігінің белгілері",
+   "author": "Нағашыбайқызы Наушарбанова Асылайжан",
+   "subject": "Геометрия",
+   "grade": "7 класс",
+   "section": "Треугольники",
+   "topic": "Үшбұрыштар теңдігінің белгілері",
+   "published": "26.12.2019",
+   "objectives": [
+    "7.3.2.4",
+    "7.3.3.4"
+   ],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 771,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/771",
+   "pdf": "https://bilimland.kz/ru/plans/771/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/771/export-doc",
+   "title": "Бұрыштың синусының, косинусының, тангенсінің немесе котангенсінің белгілі мәні бойынша бұрыш салу",
+   "author": "Нағашыбайқызы Наушарбанова Асылайжан",
+   "subject": "Геометрия",
+   "grade": "8 класс",
+   "section": "Прямоугольная система координат на плоскости",
+   "topic": "Бұрыштың синусының, косинусының, тангенсінің немесе котангенсінің белгілі мәні бойынша бұрыш салу",
+   "published": "26.12.2019",
+   "objectives": [
+    "8.1.3.5"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 1061,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/1061",
+   "pdf": "https://bilimland.kz/ru/plans/1061/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/1061/export-doc",
+   "title": "Разложение многочлена различными способами",
+   "author": "mektep.2549 mektep.2549 mektep.2549",
+   "subject": "Алгебра",
+   "grade": "7 класс",
+   "section": "Многочлены",
+   "topic": "Разложение многочлена различными способами",
+   "published": "27.12.2019",
+   "objectives": [],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 1271,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/1271",
+   "pdf": "https://bilimland.kz/ru/plans/1271/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/1271/export-doc",
+   "title": "Решение текстовых задач",
+   "author": "ЖАБЕТОВ АРМАН РАХМЕТОВИЧ",
+   "subject": "Алгебра",
+   "grade": "8 класс",
+   "section": "Квадратные уравнения",
+   "topic": "Решение текстовых задач",
+   "published": "27.12.2019",
+   "objectives": [
+    "8.4.2.1"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 1273,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/1273",
+   "pdf": "https://bilimland.kz/ru/plans/1273/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/1273/export-doc",
+   "title": "Площадь треугольника. Формула Герона для нахождения площади треугольника",
+   "author": "ЖАБЕТОВ АРМАН РАХМЕТОВИЧ",
+   "subject": "Геометрия",
+   "grade": "8 класс",
+   "section": "Площади фигур",
+   "topic": "Площадь треугольника. Формула Герона для нахождения площади треугольника",
+   "published": "27.12.2019",
+   "objectives": [
+    "8.3.3.12"
+   ],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 1356,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/1356",
+   "pdf": "https://bilimland.kz/ru/plans/1356/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/1356/export-doc",
+   "title": "Размещения, перестановки и сочетания с повторениями.",
+   "author": "Буранкулов Руслан Барлыкович",
+   "subject": "Алгебра",
+   "grade": "10 класс",
+   "section": "Комбинаторика и бином Ньютона",
+   "topic": "Размещения, перестановки и сочетания с повторениями.",
+   "published": "28.12.2019",
+   "objectives": [
+    "10.4.2.3"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 1942,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/1942",
+   "pdf": "https://bilimland.kz/ru/plans/1942/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/1942/export-doc",
+   "title": "Формула суммы первых п членов геометрической прогрессии",
+   "author": "ЛЕНГЛЕ НАТАЛЬЯ АЛЕКСАНДРОВНА",
+   "subject": "Алгебра",
+   "grade": "9 класс",
+   "section": "Числовая последовательность",
+   "topic": "Формула суммы первых п членов геометрической прогрессии",
+   "published": "20.01.2020",
+   "objectives": [
+    "9.2.3.6"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2142,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/2142",
+   "pdf": "https://bilimland.kz/ru/plans/2142/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/2142/export-doc",
+   "title": "Признаки равенства треугольников",
+   "author": "Гаер Ирина Александровна",
+   "subject": "Геометрия",
+   "grade": "7 класс",
+   "section": "Треугольники",
+   "topic": "Признаки равенства треугольников",
+   "published": "26.01.2020",
+   "objectives": [
+    "7.1.1.21",
+    "7.1.1.22"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2162,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/2162",
+   "pdf": "https://bilimland.kz/ru/plans/2162/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/2162/export-doc",
+   "title": "Решение текстовых задач с помощью системы нелинейных уравнений",
+   "author": "КУДАЙБЕРГЕНОВ ЖАНАТ АМАНЖОЛОВИЧ",
+   "subject": "Алгебра",
+   "grade": "9 класс",
+   "section": "Уравнения, неравенства и их системы",
+   "topic": "Решение текстовых задач с помощью системы нелинейных уравнений",
+   "published": "27.01.2020",
+   "objectives": [
+    "9.4.2.1",
+    "9.4.3.1"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2170,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/2170",
+   "pdf": "https://bilimland.kz/ru/plans/2170/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/2170/export-doc",
+   "title": "Умножение многочлена на многочлен",
+   "author": "КУЗНЕЦОВА ЛЮДМИЛА ИВАНОВНА",
+   "subject": "Алгебра",
+   "grade": "7 класс",
+   "section": "Многочлены",
+   "topic": "Умножение многочлена на многочлен",
+   "published": "27.01.2020",
+   "objectives": [
+    "7.2.1.9"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2504,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/2504",
+   "pdf": "https://bilimland.kz/ru/plans/2504/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/2504/export-doc",
+   "title": "основныне тригонометрические тождествма",
+   "author": "ХАМЗИНА АНАР ТЛЕУХАНОВНА",
+   "subject": "Алгебра",
+   "grade": "9 класс",
+   "section": "Элементы тригонометрии",
+   "topic": "основныне тригонометрические тождествма",
+   "published": "29.01.2020",
+   "objectives": [
+    "9.2.4.2",
+    "9.2.4.8"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2666,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/2666",
+   "pdf": "https://bilimland.kz/ru/plans/2666/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/2666/export-doc",
+   "title": "Формулы сокращённого умножения",
+   "author": "МАТУШЕВИЧ ЛАРИСА ВИКТОРОВНА",
+   "subject": "Алгебра",
+   "grade": "7 класс",
+   "section": "Формулы сокращенного умножения",
+   "topic": "Формулы сокращённого умножения",
+   "published": "30.01.2020",
+   "objectives": [
+    "7.2.1.10",
+    "7.2.1.11"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2685,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/2685",
+   "pdf": "https://bilimland.kz/ru/plans/2685/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/2685/export-doc",
+   "title": "Разложение квадратного трехчлена",
+   "author": "Чуб Ирина Васильевна",
+   "subject": "Алгебра",
+   "grade": "8 класс",
+   "section": "Квадратные уравнения",
+   "topic": "Разложение квадратного трехчлена",
+   "published": "30.01.2020",
+   "objectives": [
+    "8.2.1.1",
+    "8.2.1.2",
+    "8.2.1.3"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2708,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/2708",
+   "pdf": "https://bilimland.kz/ru/plans/2708/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/2708/export-doc",
+   "title": "Тождественные преобразования выражений",
+   "author": "САГИНБАЕВА СВЕТЛАНА АНАТОЛЬЕВНА",
+   "subject": "Алгебра",
+   "grade": "7 класс",
+   "section": "Многочлены",
+   "topic": "Тождественные преобразования выражений",
+   "published": "30.01.2020",
+   "objectives": [],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 2798,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/2798",
+   "pdf": "https://bilimland.kz/ru/plans/2798/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/2798/export-doc",
+   "title": "Квадрат разности. Квадрат суммы. Разность квадратов.",
+   "author": "Жалгасов Жандос Нурдаулетович",
+   "subject": "Алгебра",
+   "grade": "7 класс",
+   "section": "Формулы сокращенного умножения",
+   "topic": "Квадрат разности. Квадрат суммы. Разность квадратов.",
+   "published": "31.01.2020",
+   "objectives": [
+    "7.2.1.10"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2856,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/2856",
+   "pdf": "https://bilimland.kz/ru/plans/2856/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/2856/export-doc",
+   "title": "Прямоугольная система координат в пространстве",
+   "author": "Станогина Наталья",
+   "subject": "Геометрия",
+   "grade": "10 класс",
+   "section": "Прямоугольная система координат и векторы в пространстве",
+   "topic": "Прямоугольная система координат в пространстве",
+   "published": "31.01.2020",
+   "objectives": [
+    "10.4.5",
+    "10.4.6"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2966,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/2966",
+   "pdf": "https://bilimland.kz/ru/plans/2966/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/2966/export-doc",
+   "title": "Система нелинейных уравнений с двумя переменными",
+   "author": "Зарыкпанова Балкия Куспековна",
+   "subject": "Алгебра",
+   "grade": "9 класс",
+   "section": "Уравнения, неравенства и их системы",
+   "topic": "Система нелинейных уравнений с двумя переменными",
+   "published": "04.02.2020",
+   "objectives": [
+    "9.2.2.2"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 2969,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/2969",
+   "pdf": "https://bilimland.kz/ru/plans/2969/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/2969/export-doc",
+   "title": "Арифметическая и геометрическая прогрессия",
+   "author": "Зарыкпанова Балкия Куспековна",
+   "subject": "Алгебра",
+   "grade": "9 класс",
+   "section": "Числовая последовательность",
+   "topic": "Арифметическая и геометрическая прогрессия",
+   "published": "04.02.2020",
+   "objectives": [
+    "9.23.4"
+   ],
+   "match": "тақырып атауы бойынша (тексеру керек)"
+  },
+  {
+   "id": 3105,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/3105",
+   "pdf": "https://bilimland.kz/ru/plans/3105/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/3105/export-doc",
+   "title": "Решение задач с использованием формул комбинаторики",
+   "author": "Альжанова Куляш Есимовна",
+   "subject": "Алгебра",
+   "grade": "9 класс",
+   "section": "Элементы теории вероятностей и математической статистики",
+   "topic": "Решение задач с использованием формул комбинаторики",
+   "published": "05.02.2020",
+   "objectives": [
+    "9.3.1.5"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 3106,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/3106",
+   "pdf": "https://bilimland.kz/ru/plans/3106/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/3106/export-doc",
+   "title": "Бесконечно убывающая геометрическая прогрессия",
+   "author": "Альжанова Куляш Есимовна",
+   "subject": "Алгебра",
+   "grade": "9 класс",
+   "section": "Числовая последовательность",
+   "topic": "Бесконечно убывающая геометрическая прогрессия",
+   "published": "05.02.2020",
+   "objectives": [
+    "9.2.3.8"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4435,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/4435",
+   "pdf": "https://bilimland.kz/ru/plans/4435/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/4435/export-doc",
+   "title": "Тождественные преобразования алгебраических выражений с помощью формул сокращённого умножения",
+   "author": "Титаренко Валентина Николаевна",
+   "subject": "Алгебра",
+   "grade": "7 класс",
+   "section": "Формулы сокращенного умножения",
+   "topic": "Тождественные преобразования алгебраических выражений с помощью формул сокращённого умножения",
+   "published": "27.02.2020",
+   "objectives": [
+    "7.2.1.15"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4649,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/4649",
+   "pdf": "https://bilimland.kz/ru/plans/4649/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/4649/export-doc",
+   "title": "Квадрат суммы и разности двух выражений (урок-закрепление)",
+   "author": "Алимханова Индира Жанатхановна",
+   "subject": "Алгебра",
+   "grade": "7 класс",
+   "section": "Формулы сокращенного умножения",
+   "topic": "Квадрат суммы и разности двух выражений (урок-закрепление)",
+   "published": "03.03.2020",
+   "objectives": [
+    "7.2.1.10"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4743,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/4743",
+   "pdf": "https://bilimland.kz/ru/plans/4743/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/4743/export-doc",
+   "title": "Решение треугольников.  Радиус  вписанной в треугольник и описанной  около треугольника окружности.",
+   "author": "Исанбекова Гавкар Киркимбековна",
+   "subject": "Геометрия",
+   "grade": "9 класс",
+   "section": "Решение треугольников",
+   "topic": "Решение треугольников.  Радиус  вписанной в треугольник и описанной  около треугольника окружности.",
+   "published": "12.03.2020",
+   "objectives": [
+    "9.1.3.10",
+    "9.1.3.8"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4757,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/4757",
+   "pdf": "https://bilimland.kz/ru/plans/4757/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/4757/export-doc",
+   "title": "Тождественное преобразования рациональных дробей",
+   "author": "Зарыкпанова Балкия Куспековна",
+   "subject": "Алгебра",
+   "grade": "7 класс",
+   "section": "Формулы сокращенного умножения",
+   "topic": "Тождественное преобразования рациональных дробей",
+   "published": "13.03.2020",
+   "objectives": [
+    "7.1.2.14",
+    "7.2.1.14",
+    "7.2.1.15"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4771,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/4771",
+   "pdf": "https://bilimland.kz/ru/plans/4771/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/4771/export-doc",
+   "title": "Теорема синусов",
+   "author": "Зайцева Ирина Ивановна",
+   "subject": "Геометрия",
+   "grade": "9 класс",
+   "section": "Решение треугольников",
+   "topic": "Теорема синусов",
+   "published": "16.03.2020",
+   "objectives": [
+    "9.1.3.7"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 4912,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/4912",
+   "pdf": "https://bilimland.kz/ru/plans/4912/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/4912/export-doc",
+   "title": "Основные методы решения неравенств и их систем. Система равносильных неравенств.",
+   "author": "КАРИШЕВА НАЗЫМ КУДАЙБЕРГЕНОВНА",
+   "subject": "Алгебра",
+   "grade": "11 класс",
+   "section": "Уравнения и неравенства, системы уравнений и неравенств",
+   "topic": "Основные методы решения неравенств и их систем. Система равносильных неравенств.",
+   "published": "19.03.2020",
+   "objectives": [
+    "11.4.1",
+    "11.4.2",
+    "11.4.3"
+   ],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 4950,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/4950",
+   "pdf": "https://bilimland.kz/ru/plans/4950/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/4950/export-doc",
+   "title": "Площади четырехугольников и треугольников",
+   "author": "Земцова Наталья Анатольевна",
+   "subject": "Геометрия",
+   "grade": "8 класс",
+   "section": "Площади фигур",
+   "topic": "Площади четырехугольников и треугольников",
+   "published": "19.03.2020",
+   "objectives": [
+    "8.1.3.12"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 5034,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/5034",
+   "pdf": "https://bilimland.kz/ru/plans/5034/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/5034/export-doc",
+   "title": "Уравнения и неравенства, содержащие переменные под знаком модуля",
+   "author": "КАРИШЕВА НАЗЫМ КУДАЙБЕРГЕНОВНА",
+   "subject": "Алгебра",
+   "grade": "11 класс",
+   "section": "Уравнения и неравенства, системы уравнений и неравенств",
+   "topic": "Уравнения и неравенства, содержащие переменные под знаком модуля",
+   "published": "20.03.2020",
+   "objectives": [
+    "11.4.1",
+    "11.4.2",
+    "11.4.3"
+   ],
+   "match": "сәйкестік табылмады"
+  },
+  {
+   "id": 5521,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/5521",
+   "pdf": "https://bilimland.kz/ru/plans/5521/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/5521/export-doc",
+   "title": "Решение треугольников (3 урока, 1 урок в теме)",
+   "author": "БРУХ СВЕТЛАНА АНАТОЛЬЕВНА",
+   "subject": "Геометрия",
+   "grade": "9 класс",
+   "section": "Решение треугольников",
+   "topic": "Решение треугольников (3 урока, 1 урок в теме)",
+   "published": "30.03.2020",
+   "objectives": [
+    "9.1.3.6",
+    "9.1.3.7"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 6011,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/6011",
+   "pdf": "https://bilimland.kz/ru/plans/6011/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/6011/export-doc",
+   "title": "Линейные однородные дифференциальные уравнения второго порядка с постоянными коэффициентами",
+   "author": "Галкина Ольга Константиновна",
+   "subject": "Алгебра",
+   "grade": "11 класс",
+   "section": "Уравнения и неравенства, системы уравнений и неравенств",
+   "topic": "Линейные однородные дифференциальные уравнения второго порядка с постоянными коэффициентами",
+   "published": "19.11.2020",
+   "objectives": [
+    "11.4.1.25"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 6026,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/6026",
+   "pdf": "https://bilimland.kz/ru/plans/6026/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/6026/export-doc",
+   "title": "Решение квадратных уравнений",
+   "author": "ЧИБИСОВА ДИНАРА РАКИМБАЕВНА",
+   "subject": "Алгебра",
+   "grade": "8 класс",
+   "section": "Квадратные уравнения",
+   "topic": "Решение квадратных уравнений",
+   "published": "09.12.2020",
+   "objectives": [
+    "8.2.2.3",
+    "8.2.2.4"
+   ],
+   "match": "оқу мақсатының коды бойынша"
+  },
+  {
+   "id": 6166,
+   "lang": "ru",
+   "url": "https://bilimland.kz/ru/plans/6166",
+   "pdf": "https://bilimland.kz/ru/plans/6166/export-pdf",
+   "docx": "https://bilimland.kz/ru/plans/6166/export-doc",
+   "title": "УЧЕБНАЯ ПРОГРАММА КУРСА ПРОФЕССИНАЛЬНОЙ ПОДГОТОВКИ  «Применение программы MathCad в электроэнергетике»",
+   "author": "Онгар Булбул",
+   "subject": "Алгебра",
+   "grade": "11 класс",
+   "section": "Первообразная функции и интеграл",
+   "topic": "УЧЕБНАЯ ПРОГРАММА КУРСА ПРОФЕССИНАЛЬНОЙ ПОДГОТОВКИ  «Применение программы MathCad в электроэнергетике»",
+   "published": "15.11.2021",
+   "objectives": [],
+   "match": "сәйкестік табылмады"
+  }
+ ],
+ "topics": [
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Натурал көрсеткішті дәреже және оның қасиеттері",
+   "objectives": [
+    "7.1.2.1",
+    "7.1.2.2",
+    "7.1.2.15",
+    "7.4.2.3"
+   ],
+   "plans": [
+    {
+     "id": 453,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 919,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 1930,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2021,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2904,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Бүтін көрсеткішті дәреже және оның қасиеттері",
+   "objectives": [
+    "7.1.2.3",
+    "7.1.2.4",
+    "7.1.2.6",
+    "7.2.1.1"
+   ],
+   "plans": [
+    {
+     "id": 1930,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 1947,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Құрамында дәрежесі бар өрнектерді түрлендіру",
+   "objectives": [
+    "7.1.2.5",
+    "7.2.3.1"
+   ],
+   "plans": [
+    {
+     "id": 1957,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Санның стандарт түрі",
+   "objectives": [
+    "7.1.1.1",
+    "7.1.2.7",
+    "7.1.2.8",
+    "7.1.2.9",
+    "7.1.2.10",
+    "7.1.2.11",
+    "7.1.2.12",
+    "7.1.2.13"
+   ],
+   "plans": [
+    {
+     "id": 1971,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 3734,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Бүтін көрсеткішті дәреже",
+   "topic": "Мәтінді есептерді шығару",
+   "objectives": [
+    "7.4.2.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Бірмүшелер және оларға амалдар қолдану. Бірмүшенің дәрежесі және стандарт түрі",
+   "objectives": [
+    "7.2.1.2",
+    "7.2.1.3",
+    "7.2.1.4"
+   ],
+   "plans": [
+    {
+     "id": 1930,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Көпмүшелер. Көпмүшенің дәрежесі және стандарт түрі",
+   "objectives": [
+    "7.2.1.5",
+    "7.2.1.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Көпмүшелерге амалдар қолдану",
+   "objectives": [
+    "7.2.1.7",
+    "7.2.1.8",
+    "7.2.1.9"
+   ],
+   "plans": [
+    {
+     "id": 2170,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Көпмүшені көбейткіштерге жіктеу",
+   "objectives": [
+    "7.2.1.12"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Өрнектерді тепе-тең түрлендіру",
+   "objectives": [
+    "7.2.1.13"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Функция. Функцияның графигі",
+   "topic": "Функция және функцияның графигі",
+   "objectives": [
+    "7.4.1.1",
+    "7.4.1.2",
+    "7.4.1.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Функция. Функцияның графигі",
+   "topic": "Сызықтық функция және оның графигі",
+   "objectives": [
+    "7.4.1.4",
+    "7.4.1.5",
+    "7.4.1.6",
+    "7.4.1.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Функция. Функцияның графигі",
+   "topic": "Сызықтық функциялардың графиктерінің өзара орналасуы",
+   "objectives": [
+    "7.4.1.8",
+    "7.4.1.9"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Функция. Функцияның графигі",
+   "topic": "Екі айнымалысы бар сызықтық теңдеулер жүйесін графиктік тәсілмен шешу",
+   "objectives": [
+    "7.4.2.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Функция. Функцияның графигі",
+   "topic": "( k≠0) түріндегі функциялар, олардың графиктері және қасиеттері",
+   "objectives": [
+    "7.4.1.10",
+    "7.4.1.11",
+    "7.4.1.12"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Статистика элементтері",
+   "topic": "Вариациялық қатар",
+   "objectives": [
+    "7.3.3.1"
+   ],
+   "plans": [
+    {
+     "id": 1930,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Статистика элементтері",
+   "topic": "Абсолютті жиілік және салыстырмалы жиілік. Жиілік кестесі",
+   "objectives": [
+    "7.3.3.2",
+    "7.3.3.3",
+    "7.3.3.4",
+    "7.3.3.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Статистика элементтері",
+   "topic": "Жиілік алқабы",
+   "objectives": [
+    "7.3.3.6",
+    "7.3.3.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "3-тоқсан",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Қысқаша көбейту формулалары",
+   "objectives": [
+    "7.2.1.10",
+    "7.2.1.11"
+   ],
+   "plans": [
+    {
+     "id": 1780,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 2663,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2859,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 3167,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 3178,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4235,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2666,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2798,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4649,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "3-тоқсан",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Қысқаша көбейту формулаларының көмегімен өрнектерді түрлендіру",
+   "objectives": [
+    "7.1.2.14",
+    "7.2.1.14",
+    "7.2.1.15"
+   ],
+   "plans": [
+    {
+     "id": 2904,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 3289,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4232,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4906,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4435,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4757,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "3-тоқсан",
+   "section": "Қысқаша көбейту формулалары",
+   "topic": "Мәтінді есептерді шығару",
+   "objectives": [
+    "7.4.3.1",
+    "7.4.2.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "4-тоқсан",
+   "section": "Алгебралық бөлшектер",
+   "topic": "Алгебралық бөлшек және оның негізгі қасиеті",
+   "objectives": [
+    "7.2.1.16",
+    "7.2.1.17",
+    "7.2.1.18"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "4-тоқсан",
+   "section": "Алгебралық бөлшектер",
+   "topic": "Алгебралық бөлшектерге амалдар қолдану",
+   "objectives": [
+    "7.2.1.19",
+    "7.2.1.20"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 7,
+   "quarter": "4-тоқсан",
+   "section": "Алгебралық бөлшектер",
+   "topic": "Алгебралық өрнектерді тепе-тең түрлендіру",
+   "objectives": [
+    "7.2.1.21"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "1-тоқсан",
+   "section": "Квадрат түбір және иррационал өрнек",
+   "topic": "Нақты сандар",
+   "objectives": [
+    "8.1.1.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "1-тоқсан",
+   "section": "Квадрат түбір және иррационал өрнек",
+   "topic": "Квадрат түбір",
+   "objectives": [
+    "8.1.1.2",
+    "8.1.2.1",
+    "8.1.2.2"
+   ],
+   "plans": [
+    {
+     "id": 11,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "1-тоқсан",
+   "section": "Квадрат түбір және иррационал өрнек",
+   "topic": "Құрамында квадрат түбірлері бар өрнектерді түрлендіру",
+   "objectives": [
+    "8.1.2.3",
+    "8.1.2.4",
+    "8.1.2.5",
+    "8.1.2.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "1-тоқсан",
+   "section": "Квадрат түбір және иррационал өрнек",
+   "topic": "функциясы, оның графигі және қасиеттері",
+   "objectives": [
+    "8.4.1.1",
+    "8.4.1.4"
+   ],
+   "plans": [
+    {
+     "id": 14,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "2-тоқсан",
+   "section": "Квадрат теңдеулер",
+   "topic": "Квадрат теңдеу",
+   "objectives": [
+    "8.2.2.1",
+    "8.2.2.2"
+   ],
+   "plans": [
+    {
+     "id": 923,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 11,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "2-тоқсан",
+   "section": "Квадрат теңдеулер",
+   "topic": "Квадрат теңдеулерді шешу",
+   "objectives": [
+    "8.2.2.3",
+    "8.2.2.4"
+   ],
+   "plans": [
+    {
+     "id": 6026,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "2-тоқсан",
+   "section": "Квадрат теңдеулер",
+   "topic": "Квадрат үшмүше",
+   "objectives": [
+    "8.2.1.1",
+    "8.2.1.2",
+    "8.2.1.3"
+   ],
+   "plans": [
+    {
+     "id": 3893,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4300,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 11,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 2685,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "2-тоқсан",
+   "section": "Квадрат теңдеулер",
+   "topic": "Теңдеулерді шешу",
+   "objectives": [
+    "8.2.2.5",
+    "8.2.2.6",
+    "8.2.2.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "3-тоқсан",
+   "section": "Квадрат теңдеулер",
+   "topic": "Мәтінді есептерді шығару",
+   "objectives": [
+    "8.4.2.1",
+    "8.4.2.2"
+   ],
+   "plans": [
+    {
+     "id": 1271,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "3-тоқсан",
+   "section": "Квадраттық функция",
+   "topic": "Квадраттық функция және оның графигі",
+   "objectives": [
+    "8.4.1.2",
+    "8.4.1.3",
+    "8.4.1.4"
+   ],
+   "plans": [
+    {
+     "id": 14,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 2927,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 3208,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "3-тоқсан",
+   "section": "Квадраттық функция",
+   "topic": "Мәтінді есептерді шығару",
+   "objectives": [
+    "8.4.2.3",
+    "8.4.3.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "3-тоқсан",
+   "section": "Статистика элементтері",
+   "topic": "Жиілік алқабы, жиілік гистограммасы",
+   "objectives": [
+    "8.3.3.1",
+    "8.3.3.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "3-тоқсан",
+   "section": "Статистика элементтері",
+   "topic": "Орта мән. Дисперсия. Стандартты ауытқу",
+   "objectives": [
+    "8.3.3.3",
+    "8.3.3.4",
+    "8.3.3.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "4-тоқсан",
+   "section": "Теңсіздіктер",
+   "topic": "Квадрат теңсіздік",
+   "objectives": [
+    "8.2.2.8"
+   ],
+   "plans": [
+    {
+     "id": 11,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "4-тоқсан",
+   "section": "Теңсіздіктер",
+   "topic": "Рационал теңсіздік",
+   "objectives": [
+    "8.2.2.9"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 8,
+   "quarter": "4-тоқсан",
+   "section": "Теңсіздіктер",
+   "topic": "Теңсіздіктер жүйелерін шешу",
+   "objectives": [
+    "8.2.2.10",
+    "8.2.2.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "1-тоқсан",
+   "section": "Екі айнымалысы бар теңдеулер, теңсіздіктер, және олардың жүйелері",
+   "topic": "Екі айнымалысы бар сызықтық емес теңдеулер және олардың жүйелері",
+   "objectives": [
+    "9.2.2.1",
+    "9.2.2.2",
+    "9.4.2.1",
+    "9.4.3.1"
+   ],
+   "plans": [
+    {
+     "id": 2298,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2299,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2162,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2966,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "1-тоқсан",
+   "section": "Екі айнымалысы бар теңдеулер, теңсіздіктер, және олардың жүйелері",
+   "topic": "Екі айнымалысы бар теңсіздіктер",
+   "objectives": [
+    "9.2.2.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "1-тоқсан",
+   "section": "Екі айнымалысы бар теңдеулер, теңсіздіктер, және олардың жүйелері",
+   "topic": "Екі айнымалысы бар сызықтық емес теңсіздіктер жүйелері",
+   "objectives": [
+    "9.2.2.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "1-тоқсан",
+   "section": "Комбинаторика элементтері",
+   "topic": "Комбинаториканың негізгі ұғымдары мен ережелері (қосу және көбейту ережелері)",
+   "objectives": [
+    "9.3.1.1",
+    "9.3.1.2",
+    "9.3.1.3",
+    "9.3.1.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "1-тоқсан",
+   "section": "Комбинаторика элементтері",
+   "topic": "Комбинаторика формулаларын қолданып есептер шешу",
+   "objectives": [
+    "9.3.1.5"
+   ],
+   "plans": [
+    {
+     "id": 3105,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "1-тоқсан",
+   "section": "Комбинаторика элементтері",
+   "topic": "Ньютон биномы және оның қасиеттері",
+   "objectives": [
+    "9.3.1.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "2-тоқсан",
+   "section": "Тізбектер",
+   "topic": "Сандар тізбегі, оның берілу тәсілдері және қасиеттері",
+   "objectives": [
+    "9.2.3.1",
+    "9.2.3.2",
+    "9.2.3.3"
+   ],
+   "plans": [
+    {
+     "id": 190,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 6110,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "2-тоқсан",
+   "section": "Тізбектер",
+   "topic": "Арифметикалық және геометриялық прогрессиялар",
+   "objectives": [
+    "9.2.3.4",
+    "9.2.3.5",
+    "9.2.3.6",
+    "9.2.3.7"
+   ],
+   "plans": [
+    {
+     "id": 929,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 1428,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 4039,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4047,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 480,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 1942,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2969,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "2-тоқсан",
+   "section": "Тізбектер",
+   "topic": "Шексіз кемімелі геометриялық прогрессия",
+   "objectives": [
+    "9.2.3.8"
+   ],
+   "plans": [
+    {
+     "id": 929,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 3106,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "2-тоқсан",
+   "section": "Тізбектер",
+   "topic": "Мәтінді есептерді шығару",
+   "objectives": [
+    "9.2.3.9",
+    "9.4.2.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "3-тоқсан",
+   "section": "Тригонометрия",
+   "topic": "Бұрыш пен доғаның градустық және радиандық өлшемдері",
+   "objectives": [
+    "9.1.1.1",
+    "9.1.2.1",
+    "9.1.1.2"
+   ],
+   "plans": [
+    {
+     "id": 4597,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "3-тоқсан",
+   "section": "Тригонометрия",
+   "topic": "Кез келген бұрыштың синусы, косинусы, тангенсі және котангенсі. Бұрыш синусының, косинусының, тангенсінің және котангенсінің мәндері",
+   "objectives": [
+    "9.2.4.1",
+    "9.2.4.2"
+   ],
+   "plans": [
+    {
+     "id": 2504,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "3-тоқсан",
+   "section": "Тригонометрия",
+   "topic": "Тригонометриялық функциялар және олардың қасиеттері",
+   "objectives": [
+    "9.2.4.5",
+    "9.2.4.6"
+   ],
+   "plans": [
+    {
+     "id": 2426,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "3-тоқсан",
+   "section": "Тригонометрия",
+   "topic": "Тригонометрия формулалары",
+   "objectives": [
+    "9.2.4.4",
+    "9.2.4.3"
+   ],
+   "plans": [
+    {
+     "id": 1428,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 4382,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 8,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "4-тоқсан",
+   "section": "Тригонометрия",
+   "topic": "Тригонометрия формулалары",
+   "objectives": [
+    "9.2.4.7"
+   ],
+   "plans": [
+    {
+     "id": 1428,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 2545,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4382,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 8,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "4-тоқсан",
+   "section": "Тригонометрия",
+   "topic": "Тригонометриялық өрнектерді тепе-тең түрлендіру",
+   "objectives": [
+    "9.2.4.8"
+   ],
+   "plans": [
+    {
+     "id": 2545,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2504,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "4-тоқсан",
+   "section": "Ықтималдықтар теориясының элементтері",
+   "topic": "Ықтималдықтар теориясының негіздері",
+   "objectives": [
+    "9.3.2.1",
+    "9.3.2.2",
+    "9.3.2.3",
+    "9.3.2.4"
+   ],
+   "plans": [
+    {
+     "id": 163,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 53,
+   "grade": 9,
+   "quarter": "4-тоқсан",
+   "section": "Ықтималдықтар теориясының элементтері",
+   "topic": "Мәтінді есептерді шығару",
+   "objectives": [
+    "9.3.2.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Геометрияның алғашқы мәліметтері",
+   "topic": "Геометрияның негізгі ұғымдары. Аксиома. Теорема",
+   "objectives": [
+    "7.1.1.1",
+    "7.1.1.5",
+    "7.1.1.2",
+    "7.1.1.3",
+    "7.1.2.1",
+    "7.1.1.6",
+    "7.1.1.8",
+    "7.1.1.11",
+    "7.1.2.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Геометрияның алғашқы мәліметтері",
+   "topic": "Фигуралар теңдігі",
+   "objectives": [
+    "7.1.1.7"
+   ],
+   "plans": [
+    {
+     "id": 1968,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Геометрияның алғашқы мәліметтері",
+   "topic": "Теореманы дәлелдеу әдістері",
+   "objectives": [
+    "7.1.1.4"
+   ],
+   "plans": [
+    {
+     "id": 1972,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "1-тоқсан",
+   "section": "Геометрияның алғашқы мәліметтері",
+   "topic": "Сыбайлас және вертикаль бұрыштар, олардың қасиеттері",
+   "objectives": [
+    "7.1.1.9",
+    "7.1.1.10"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Үшбұрыштар",
+   "topic": "Үшбұрыш және оның түрлері",
+   "objectives": [
+    "7.1.1.13"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Үшбұрыштар",
+   "topic": "Үшбұрыштың биссектрисы, медианасы, биіктігі және орта сызығы",
+   "objectives": [
+    "7.1.1.14",
+    "7.1.1.12"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Үшбұрыштар",
+   "topic": "Үшбұрыштар теңдігінің белгілері",
+   "objectives": [
+    "7.1.1.20"
+   ],
+   "plans": [
+    {
+     "id": 734,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "2-тоқсан",
+   "section": "Үшбұрыштар",
+   "topic": "Теңбүйірлі үшбұрыш, оның қасиеттері және белгілері",
+   "objectives": [
+    "7.1.1.21"
+   ],
+   "plans": [
+    {
+     "id": 3420,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4518,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2142,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "3-тоқсан",
+   "section": "Түзулердің өзара орналасуы",
+   "topic": "Параллель түзулер, олардың белгілері және қасиеттері",
+   "objectives": [
+    "7.1.2.3",
+    "7.1.2.4",
+    "7.1.2.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "3-тоқсан",
+   "section": "Түзулердің өзара орналасуы",
+   "topic": "Үшбұрыш бұрыштарының қосындысы. Үшбұрыштың сыртқы бұрышы",
+   "objectives": [
+    "7.1.1.15",
+    "7.1.1.16",
+    "7.1.1.17",
+    "7.1.1.18"
+   ],
+   "plans": [
+    {
+     "id": 1738,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 3174,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "3-тоқсан",
+   "section": "Түзулердің өзара орналасуы",
+   "topic": "Үшбұрыш теңсіздігі",
+   "objectives": [
+    "7.1.1.19",
+    "7.1.3.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "3-тоқсан",
+   "section": "Түзулердің өзара орналасуы",
+   "topic": "Тікбұрышты үшбұрыштардың теңдігінің белгілері. Тікбұрышты үшбұрыштың қасиеттері",
+   "objectives": [
+    "7.1.1.22",
+    "7.1.1.23"
+   ],
+   "plans": [
+    {
+     "id": 3420,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4518,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 2142,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "3-тоқсан",
+   "section": "Түзулердің өзара орналасуы",
+   "topic": "Перпендикуляр түзулер. Перпендикуляр, көлбеу және оның проекциясы",
+   "objectives": [
+    "7.1.2.6",
+    "7.1.2.7",
+    "7.1.2.8"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "4-тоқсан",
+   "section": "Шеңбер. Геометриялық салулар",
+   "topic": "Шеңбер, дөңгелек, олардың элементтері мен бөліктері. Центрлік бұрыш",
+   "objectives": [
+    "7.1.1.24",
+    "7.1.1.25",
+    "7.1.1.26",
+    "7.1.1.27"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "4-тоқсан",
+   "section": "Шеңбер. Геометриялық салулар",
+   "topic": "Түзу мен шеңбердің өзара орналасуы. Екі шеңбердің өзара орналасуы",
+   "objectives": [
+    "7.1.2.10"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "4-тоқсан",
+   "section": "Шеңбер. Геометриялық салулар",
+   "topic": "Шеңберге жүргізілген жанама. Шеңберге жүргізілген жанамалардың қасиеттері",
+   "objectives": [
+    "7.1.2.9",
+    "7.1.2.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "4-тоқсан",
+   "section": "Шеңбер. Геометриялық салулар",
+   "topic": "Үшбұрышқа іштей және сырттай сызылған шеңберлер",
+   "objectives": [
+    "7.1.2.12",
+    "7.1.2.13"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 7,
+   "quarter": "4-тоқсан",
+   "section": "Шеңбер. Геометриялық салулар",
+   "topic": "Салу есептері",
+   "objectives": [
+    "7.1.2.14",
+    "7.1.2.15",
+    "7.1.2.16"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 8,
+   "quarter": "1-тоқсан",
+   "section": "Көпбұрыштар. Төртбұрыштар",
+   "topic": "Көпбұрыш.",
+   "objectives": [
+    "8.1.1.1",
+    "8.1.1.2",
+    "8.1.1.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 8,
+   "quarter": "1-тоқсан",
+   "section": "Көпбұрыштар. Төртбұрыштар",
+   "topic": "Параллелограмм, ромб, тіктөртбұрыш, шаршы және олардың қасиеттері мен белгілері",
+   "objectives": [
+    "8.1.1.4",
+    "8.1.1.5",
+    "8.1.1.6",
+    "8.1.1.7"
+   ],
+   "plans": [
+    {
+     "id": 5003,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 8,
+   "quarter": "1-тоқсан",
+   "section": "Көпбұрыштар. Төртбұрыштар",
+   "topic": "Фалес теоремасы. Пропорционал кесінділер",
+   "objectives": [
+    "8.1.1.8",
+    "8.1.1.9"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 8,
+   "quarter": "1-тоқсан",
+   "section": "Көпбұрыштар. Төртбұрыштар",
+   "topic": "Трапеция, оның түрлері мен қасиеттері. Трапеция мен үшбұрыштың орта сызықтары",
+   "objectives": [
+    "8.1.1.10",
+    "8.1.1.11",
+    "8.1.1.12"
+   ],
+   "plans": [
+    {
+     "id": 3815,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 8,
+   "quarter": "1-тоқсан",
+   "section": "Көпбұрыштар. Төртбұрыштар",
+   "topic": "Үшбұрыштың тамаша нүктелері",
+   "objectives": [
+    "8.1.3.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 8,
+   "quarter": "2-тоқсан",
+   "section": "Тікбұрышты үшбұрыштың қабырғалары мен бұрыштары арасындағы қатыстар",
+   "topic": "Тікбұрышты үшбұрыштың сүйір бұрыштарының тригонометриялық функциялары. Пифагор теоремасы",
+   "objectives": [
+    "8.1.3.2",
+    "8.1.3.3",
+    "8.1.3.4"
+   ],
+   "plans": [
+    {
+     "id": 3806,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 8,
+   "quarter": "2-тоқсан",
+   "section": "Тікбұрышты үшбұрыштың қабырғалары мен бұрыштары арасындағы қатыстар",
+   "topic": "Негізгі тригонометриялық тепе-теңдіктер",
+   "objectives": [
+    "8.1.3.18",
+    "8.1.3.19",
+    "8.1.3.5"
+   ],
+   "plans": [
+    {
+     "id": 119,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4725,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 771,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 8,
+   "quarter": "2-тоқсан",
+   "section": "Тікбұрышты үшбұрыштың қабырғалары мен бұрыштары арасындағы қатыстар",
+   "topic": "Тікбұрышты үшбұрыштарды шешу",
+   "objectives": [
+    "8.1.3.6",
+    "8.1.3.7",
+    "8.1.3.8"
+   ],
+   "plans": [
+    {
+     "id": 1372,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 3744,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4849,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 8,
+   "quarter": "3-тоқсан",
+   "section": "Аудан",
+   "topic": "Фигураның ауданы және оның қасиеттері",
+   "objectives": [
+    "8.1.3.9",
+    "8.1.3.10"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 8,
+   "quarter": "3-тоқсан",
+   "section": "Аудан",
+   "topic": "Төртбұрыштар мен үшбұрыштардың аудандары",
+   "objectives": [
+    "8.1.3.11",
+    "8.1.3.12",
+    "8.1.3.13"
+   ],
+   "plans": [
+    {
+     "id": 2575,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 3623,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4244,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 5083,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4950,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 8,
+   "quarter": "4-тоқсан",
+   "section": "Жазықтықтағы тікбұрышты координаталар жүйесі",
+   "topic": "Жазықтықтағы координаталар әдісі",
+   "objectives": [
+    "8.1.3.14",
+    "8.1.3.15",
+    "8.1.3.16",
+    "8.1.3.17"
+   ],
+   "plans": [
+    {
+     "id": 4725,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 9,
+   "quarter": "1-тоқсан",
+   "section": "Жазықтықтағы векторлар",
+   "topic": "Вектор. Векторларға амалдар қолдану. Коллинеар және коллинеар емес векторлар",
+   "objectives": [
+    "9.1.4.1",
+    "9.1.4.2",
+    "9.1.4.3",
+    "9.1.4.4",
+    "9.1.4.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 9,
+   "quarter": "1-тоқсан",
+   "section": "Жазықтықтағы векторлар",
+   "topic": "Вектордың координаталары. Координаталық түрде берілген векторларға амалдар қолдану",
+   "objectives": [
+    "9.1.3.1",
+    "9.1.3.2",
+    "9.1.3.3",
+    "9.1.3.4",
+    "9.1.3.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 9,
+   "quarter": "2-тоқсан",
+   "section": "Жазықтықтағы түрлендірулер",
+   "topic": "Қозғалыс және оның қасиеттері",
+   "objectives": [
+    "9.1.4.5",
+    "9.1.4.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 9,
+   "quarter": "2-тоқсан",
+   "section": "Жазықтықтағы түрлендірулер",
+   "topic": "Ұқсас фигуралар және олардың қасиеттері. Үшбұрыштар ұқсастығының белгілері",
+   "objectives": [
+    "9.1.4.7",
+    "9.1.4.8",
+    "9.1.4.9",
+    "9.1.4.10",
+    "9.1.4.11",
+    "9.1.4.12"
+   ],
+   "plans": [
+    {
+     "id": 3409,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 3767,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 9,
+   "quarter": "3-тоқсан",
+   "section": "Үшбұрыштарды шешу",
+   "topic": "Үшбұрыштарды шешу",
+   "objectives": [
+    "9.1.3.6",
+    "9.1.3.7",
+    "9.1.2.3",
+    "9.1.3.8",
+    "9.1.3.9"
+   ],
+   "plans": [
+    {
+     "id": 3292,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 5482,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4743,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4771,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 5521,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 54,
+   "grade": 9,
+   "quarter": "4-тоқсан",
+   "section": "Шеңбер. Көпбұрыштар",
+   "topic": "Шеңбер және дөңгелек. Доғаның ұзындығы. Дөңгелек, сектор және сегменттің аудандары",
+   "objectives": [
+    "9.1.1.1",
+    "9.1.1.2",
+    "9.1.1.3",
+    "9.1.1.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 54,
+   "grade": 9,
+   "quarter": "4-тоқсан",
+   "section": "Шеңбер. Көпбұрыштар",
+   "topic": "Дұрыс көпбұрыштар және шеңбер",
+   "objectives": [
+    "9.1.2.1",
+    "9.1.2.2",
+    "9.1.2.3",
+    "9.1.2.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Функция, оның қасиеттері және графигі",
+   "topic": "Функция және оның берілу тәсілдері. Функциялардың графиктерін түрлендіру",
+   "objectives": [
+    "10.4.1.1",
+    "10.4.1.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Функция, оның қасиеттері және графигі",
+   "topic": "Функцияның қасиеттері",
+   "objectives": [
+    "10.4.1.3",
+    "10.4.1.4"
+   ],
+   "plans": [
+    {
+     "id": 12,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 4,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Функция, оның қасиеттері және графигі",
+   "topic": "Бөлшек-сызықты функция",
+   "objectives": [
+    "10.4.1.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Функция, оның қасиеттері және графигі",
+   "topic": "Күрделі және кері функция ұғымдары",
+   "objectives": [
+    "10.4.1.6",
+    "10.4.1.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Тригонометриялық функциялар",
+   "topic": "Тригонометриялық функциялар, олардың қасиеттері мен графиктері",
+   "objectives": [
+    "10.2.3.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Тригонометриялық функциялар",
+   "topic": "Тригонометриялық функциялардың графиктерін түрлендірулер көмегімен салу",
+   "objectives": [
+    "10.2.3.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Кері тригонометриялық функциялар",
+   "topic": "Арксинус, арккосинус, арктангенс және арккотангенс",
+   "objectives": [
+    "10.2.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Кері тригонометриялық функциялар",
+   "topic": "Кері тригонометриялық функциялар, олардың қасиеттері мен графиктері",
+   "objectives": [
+    "10.2.3.4",
+    "10.2.3.5",
+    "10.2.3.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Кері тригонометриялық функциялар",
+   "topic": "Кері тригонометриялық функциялары бар қарапайым теңдеулер",
+   "objectives": [
+    "10.2.3.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Тригонометриялық теңдеулер",
+   "topic": "Қарапайым тригонометриялық теңдеулер",
+   "objectives": [
+    "10.2.3.8",
+    "10.2.3.9"
+   ],
+   "plans": [
+    {
+     "id": 158,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 160,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 2443,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Тригонометриялық теңдеулер",
+   "topic": "Тригонометриялық теңдеулер және олардың жүйелерін шешу әдістері",
+   "objectives": [
+    "10.2.3.10",
+    "10.2.3.11",
+    "10.2.3.12",
+    "10.2.3.13",
+    "10.2.3.14",
+    "10.2.3.15",
+    "10.2.3.16"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Тригонометриялық теңсіздіктер",
+   "topic": "Тригонометриялық теңсіздіктерді шешу",
+   "objectives": [
+    "10.2.3.17",
+    "10.2.3.18"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Ықтималдық",
+   "topic": "Комбинаторика элементтері және оларды оқиғалардың ықтималдықтарын табуда қолданылуы. Жуықтап есептеулер үшін Ньютон биномы",
+   "objectives": [
+    "10.3.1.1",
+    "10.3.1.2",
+    "10.3.1.3",
+    "10.3.1.4",
+    "10.3.1.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Ықтималдық",
+   "topic": "Оқиға ықтималдығы және оның қасиеттері",
+   "objectives": [
+    "10.3.2.1",
+    "10.3.2.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Ықтималдық",
+   "topic": "Шартты ықтималдық. Ықтималдықтарды қосу және көбейту ережелері",
+   "objectives": [
+    "10.3.2.3",
+    "10.3.2.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Ықтималдық",
+   "topic": "Толық ықтималдық формуласы және Байес формуласы",
+   "objectives": [
+    "10.3.2.5",
+    "10.3.2.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Ықтималдық",
+   "topic": "Бернулли формуласы және оның салдарлары",
+   "objectives": [
+    "10.3.2.7",
+    "10.3.2.8"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Ықтималдық",
+   "topic": "Нақты құбылыстар мен процестердің ықтималдық моделдері",
+   "objectives": [
+    "10.4.2.3"
+   ],
+   "plans": [
+    {
+     "id": 1356,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Бірнеше айнымалысы бар көпмүшелер және олардың стандарт түрі",
+   "objectives": [
+    "10.2.1.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Біртекті және симметриялы көпмүшелер",
+   "objectives": [
+    "10.2.1.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Бір айнымалысы бар көпмүшенің жалпы түрі",
+   "objectives": [
+    "10.2.1.3",
+    "10.2.1.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Көбейткіштерге жіктеу әдісі арқылы бір айнымалысы бар көпмүше түбірлерін табу",
+   "objectives": [
+    "10.2.1.5",
+    "10.2.1.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Көпмүшені көпмүшеге \"бұрыштап\" бөлу",
+   "objectives": [
+    "10.2.1.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Безу теоремасы, Горнер схемасы",
+   "objectives": [
+    "10.2.1.8",
+    "10.2.1.9",
+    "10.2.1.10"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Анықталмаған коэффициенттер әдісі",
+   "objectives": [
+    "10.2.1.13"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Бүтін коэффициетті көпмүшенің рационал түбірлері туралы теорема",
+   "objectives": [
+    "10.2.1.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Квадрат теңдеу түріне келтірілетін жоғары дәрежелі теңдеулер",
+   "objectives": [
+    "10.2.2.1",
+    "10.2.2.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Көпмүшелер",
+   "topic": "Үшінші дәрежелі көпмүше үшін жалпыланған Виет теоремасы",
+   "objectives": [
+    "10.2.1.12"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Функцияның шегі және үзіліссіздігі",
+   "topic": "Функцияның нүктедегі және шексіздіктегі шегі",
+   "objectives": [
+    "10.4.1.8",
+    "10.4.1.9"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Функцияның шегі және үзіліссіздігі",
+   "topic": "Функция графигінің асимптоталары",
+   "objectives": [
+    "10.4.1.10"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Функцияның шегі және үзіліссіздігі",
+   "topic": "Сан тізбегінің шегі",
+   "objectives": [
+    "10.4.1.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Функцияның шегі және үзіліссіздігі",
+   "topic": "Функцияның нүктедегі және жиындағы үзіліссіздігі",
+   "objectives": [
+    "10.4.1.12",
+    "10.4.1.13"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Функцияның шегі және үзіліссіздігі",
+   "topic": "Шектерді табу. Бірінші тамаша шек",
+   "objectives": [
+    "10.4.1.14",
+    "10.4.1.15"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Туындының анықтамасы",
+   "objectives": [
+    "10.4.1.16",
+    "10.4.1.17",
+    "10.4.1.18"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Функция дифференциалы ұғымы",
+   "objectives": [
+    "10.4.1.19",
+    "10.4.1.20"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Туынды табу ережелері",
+   "objectives": [
+    "10.4.1.21"
+   ],
+   "plans": [
+    {
+     "id": 18,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 4248,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Күрделі функция туындысы",
+   "objectives": [
+    "10.4.1.22"
+   ],
+   "plans": [
+    {
+     "id": 45,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 4568,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Тригонометриялық функциялардың туындылары",
+   "objectives": [
+    "10.4.1.23"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Кері тригонометриялық функциялардың туындылары",
+   "objectives": [
+    "10.4.1.24"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Туындының физикалық және геометриялық мағынасы",
+   "objectives": [
+    "10.4.2.1",
+    "10.4.2.2",
+    "10.4.3.1",
+    "10.4.3.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Функция графигіне жүргізілген жанаманың теңдеуі",
+   "objectives": [
+    "10.4.1.25"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Туындының қолданылуы",
+   "topic": "Функцияның өсу және кему белгілері",
+   "objectives": [
+    "10.4.1.26",
+    "10.4.1.27"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Туындының қолданылуы",
+   "topic": "Функцияның кризистік нүктелері мен экстремум нүктелері",
+   "objectives": [
+    "10.4.1.28",
+    "10.4.1.29"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Туындының қолданылуы",
+   "topic": "Функция графигінің иілу нүктелері, функция графигінің дөңестігі. Функцияны дөңестікке зерттеу",
+   "objectives": [
+    "10.4.1.30",
+    "10.4.1.31",
+    "10.4.1.32"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Туындының қолданылуы",
+   "topic": "Туындының көмегімен функцияны зерттеу және графигін салу.",
+   "objectives": [
+    "10.4.1.33"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Туындының қолданылуы",
+   "topic": "Функцияның кесіндідегі ең үлкен және ең кіші мәндері",
+   "objectives": [
+    "10.4.1.34",
+    "10.4.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кездейсоқ шамалар және олардың сандық сипаттамалары",
+   "topic": "Кездейсоқ шамалар",
+   "objectives": [
+    "10.3.2.9"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кездейсоқ шамалар және олардың сандық сипаттамалары",
+   "topic": "Дискретті кездейсоқ шамалар",
+   "objectives": [
+    "10.3.2.10",
+    "10.3.2.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кездейсоқ шамалар және олардың сандық сипаттамалары",
+   "topic": "Үзіліссіз кездейсоқ шама ұғымы",
+   "objectives": [
+    "10.3.2.12"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кездейсоқ шамалар және олардың сандық сипаттамалары",
+   "topic": "Дискретті кездейсоқ шамалардың сандық сипаттамалары",
+   "objectives": [
+    "10.3.2.13",
+    "10.3.2.14",
+    "10.3.2.15"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кездейсоқ шамалар және олардың сандық сипаттамалары",
+   "topic": "Дискретті кездейсоқ шамалардың үлестірім түрлері. Үлкен сандар заңы",
+   "objectives": [
+    "10.3.2.16",
+    "10.3.2.17"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Алғашқы функция және интеграл",
+   "topic": "Алғашқы функция және анықталмаған интеграл. Анықталмаған интеграл қасиеттері",
+   "objectives": [
+    "11.4.1.1",
+    "11.4.1.2",
+    "11.4.1.3",
+    "1.2.3.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Алғашқы функция және интеграл",
+   "topic": "Интегралдау тәсілдері",
+   "objectives": [
+    "11.4.1.4",
+    "11.4.1.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Алғашқы функция және интеграл",
+   "topic": "Қисықсызықты трапеция және оның ауданы. Анықталған интеграл.",
+   "objectives": [
+    "11.4.1.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Алғашқы функция және интеграл",
+   "topic": "Анықталған интегралдың геометриялық және физикалық есептерді шығаруда қолданылуы",
+   "objectives": [
+    "11.4.1.7",
+    "11.4.1.8",
+    "11.4.1.9",
+    "11.4.2.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Математикалық статистика элементтері",
+   "topic": "Бас жиын және таңдама",
+   "objectives": [
+    "11.3.2.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Математикалық статистика элементтері",
+   "topic": "Дискретті және интервалды вариациялық қатарлар",
+   "objectives": [
+    "11.3.3.1",
+    "11.3.3.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Математикалық статистика элементтері",
+   "topic": "Кездейсоқ шаманың сандық сипаттамаларын таңдамалар бойынша бағалау",
+   "objectives": [
+    "11.3.3.3",
+    "11.3.3.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Дәрежелер мен түбірлер. Дәрежелік функция",
+   "topic": "n-ші дәрежелі түбір және оның қасиеттері",
+   "objectives": [
+    "11.2.1.1",
+    "11.2.1.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Дәрежелер мен түбірлер. Дәрежелік функция",
+   "topic": "Рационал көрсеткішті дәреже. Рационал көрсеткішті дәрежесі бар өрнектерді түрлендіру.",
+   "objectives": [
+    "11.2.1.3",
+    "11.2.1.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Дәрежелер мен түбірлер. Дәрежелік функция",
+   "topic": "Иррационал өрнектерді түрлендіру.",
+   "objectives": [
+    "11.2.1.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Дәрежелер мен түбірлер. Дәрежелік функция",
+   "topic": "Дәрежелік функция, оның қасиеттері мен графигі",
+   "objectives": [
+    "11.4.1.10",
+    "11.4.1.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Дәрежелер мен түбірлер. Дәрежелік функция",
+   "topic": "Нақты көрсеткішті дәрежелік функцияның туындысы мен интегралы",
+   "objectives": [
+    "11.4.1.12",
+    "11.4.1.13"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Иррационал теңдеулер мен теңсіздіктер",
+   "topic": "Иррационал теңдеулер мен олардың жүйелері",
+   "objectives": [
+    "11.2.2.1",
+    "11.2.2.2",
+    "11.2.2.3",
+    "11.2.2.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Иррационал теңдеулер мен теңсіздіктер",
+   "topic": "Иррационал теңсіздіктер",
+   "objectives": [
+    "11.2.2.5"
+   ],
+   "plans": [
+    {
+     "id": 15,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Комплекс сандар",
+   "topic": "Жорамал сандар. Комплекс сандар анықтамасы",
+   "objectives": [
+    "11.1.1.1",
+    "11.1.1.2",
+    "11.1.1.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Комплекс сандар",
+   "topic": "Алгебралық түрдегі комплекс сандарға амалдар қолдану",
+   "objectives": [
+    "11.1.2.1",
+    "11.1.2.2",
+    "11.1.2.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Комплекс сандар",
+   "topic": "Квадрат теңдеулердің комплекс түбірлері",
+   "objectives": [
+    "11.1.2.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Комплекс сандар",
+   "topic": "Алгебраның негізгі теоремасы",
+   "objectives": [
+    "11.1.2.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік функциялар",
+   "topic": "Көрсеткіштік функция, оның қасиеттері және графигі",
+   "objectives": [
+    "11.4.1.14",
+    "11.4.1.15"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік функциялар",
+   "topic": "Сан логарифмі және оның қасиеттері",
+   "objectives": [
+    "11.4.1.16",
+    "11.4.1.17"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік функциялар",
+   "topic": "Логарифмдік функция, оның қасиеттері және графигі",
+   "objectives": [
+    "11.4.1.18",
+    "11.4.1.19"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік функциялар",
+   "topic": "Көрсеткіштік функцияның туындысы мен интегралы",
+   "objectives": [
+    "11.4.1.20"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік функциялар",
+   "topic": "Логарифмдік функцияның туындысы",
+   "objectives": [
+    "11.4.1.21"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік теңдеулер мен теңсіздіктер",
+   "topic": "Көрсеткіштік теңдеулер және олардың жүйелері",
+   "objectives": [
+    "11.2.2.6",
+    "11.2.2.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік теңдеулер мен теңсіздіктер",
+   "topic": "Логарифмдік теңдеулер және олардың жүйелері",
+   "objectives": [
+    "11.2.2.8",
+    "11.2.2.9"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік теңдеулер мен теңсіздіктер",
+   "topic": "Көрсеткіштік теңсіздіктер",
+   "objectives": [
+    "11.2.2.10"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік теңдеулер мен теңсіздіктер",
+   "topic": "Логарифмдік теңсіздіктер",
+   "objectives": [
+    "11.2.2.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Дифференциалдық теңдеулер",
+   "topic": "Дифференциалдық теңдеулер туралы жалпы мағлұмат",
+   "objectives": [
+    "11.4.1.22",
+    "11.4.1.23"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Дифференциалдық теңдеулер",
+   "topic": "Айнымалылары ажыратылатын бірінші ретті дифференциалдық теңдеулер",
+   "objectives": [
+    "11.4.1.24",
+    "11.4.3.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 104,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Дифференциалдық теңдеулер",
+   "topic": "Екінші ретті тұрақты коэффициентті біртекті сызықтық дифференциалдық теңдеулер.",
+   "objectives": [
+    "11.4.1.25",
+    "11.4.3.2"
+   ],
+   "plans": [
+    {
+     "id": 6011,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Функция, оның қасиеттері және графигі",
+   "topic": "Функция және оның берілу тәсілдері",
+   "objectives": [
+    "10.3.1.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Функция, оның қасиеттері және графигі",
+   "topic": "Функциялардың графиктерін түрлендіру",
+   "objectives": [
+    "10.3.1.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Функция, оның қасиеттері және графигі",
+   "topic": "Функция қасиеттері",
+   "objectives": [
+    "10.1.1.3",
+    "10.3.1.4"
+   ],
+   "plans": [
+    {
+     "id": 12,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 4,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Функция, оның қасиеттері және графигі",
+   "topic": "Кері функция ұғымы",
+   "objectives": [
+    "10.3.1.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Функция, оның қасиеттері және графигі",
+   "topic": "Күрделі функция",
+   "objectives": [
+    "10.3.1.6"
+   ],
+   "plans": [
+    {
+     "id": 12,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 45,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 4568,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 4,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Тригонометриялық функциялар",
+   "topic": "Тригонометриялық функциялар, олардың қасиеттері мен графиктері",
+   "objectives": [
+    "10.1.3.1",
+    "10.1.3.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Тригонометриялық функциялар",
+   "topic": "Арксинус, арккосинус, арктангенс, арккотангенс",
+   "objectives": [
+    "10.1.3.3",
+    "10.1.3.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Тригонометриялық теңдеулер мен теңсіздіктер",
+   "topic": "Қарапайым тригонометриялық теңдеулер",
+   "objectives": [
+    "10.1.3.5"
+   ],
+   "plans": [
+    {
+     "id": 158,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 160,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 2443,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Тригонометриялық теңдеулер мен теңсіздіктер",
+   "topic": "Тригонометриялық теңдеулерді шешу әдістері",
+   "objectives": [
+    "10.1.3.6",
+    "10.1.3.7",
+    "10.1.3.8"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Тригонометриялық теңдеулер мен теңсіздіктер",
+   "topic": "Қарапайым тригонометриялық теңсіздіктерді шешу",
+   "objectives": [
+    "10.1.3.9"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Ықтималдық",
+   "topic": "Оқиға ықтималдығы және оның қасиеттері",
+   "objectives": [
+    "10.2.1.1",
+    "10.2.1.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Ықтималдық",
+   "topic": "Ықтималдықтарды қосу және көбейту ережелері",
+   "objectives": [
+    "10.2.1.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Функцияның нүктедегі және шексіздіктегі шегі",
+   "objectives": [
+    "10.3.1.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Функцияның нүктедегі және жиындағы үзіліссіздігі",
+   "objectives": [
+    "10.3.1.8"
+   ],
+   "plans": [
+    {
+     "id": 4414,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Туындының анықтамасы",
+   "objectives": [
+    "10.3.1.9"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Туындыны табу ережелері",
+   "objectives": [
+    "10.3.1.10",
+    "10.3.1.11"
+   ],
+   "plans": [
+    {
+     "id": 18,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 3314,
+     "how": "оқу мақсатының коды бойынша"
+    },
+    {
+     "id": 4248,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Туындының физикалық және геометриялық мағынасы",
+   "objectives": [
+    "10.3.2.1",
+    "10.3.2.2",
+    "10.3.3.1",
+    "10.3.3.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Функция графигіне жүргізілген жанаманың теңдеуі",
+   "objectives": [
+    "10.3.1.12"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Күрделі функцияның туындысы",
+   "objectives": [
+    "10.3.1.14"
+   ],
+   "plans": [
+    {
+     "id": 45,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 4568,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туынды",
+   "topic": "Тригонометриялық функциялардың туындылары",
+   "objectives": [
+    "10.3.1.13"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туындының қолданылуы",
+   "topic": "Функцияның өсу және кему белгілері",
+   "objectives": [
+    "10.3.1.15"
+   ],
+   "plans": [
+    {
+     "id": 3844,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туындының қолданылуы",
+   "topic": "Функцияның кризистік нүктелері мен экстремум нүктелері",
+   "objectives": [
+    "10.3.1.16",
+    "10.3.1.17"
+   ],
+   "plans": [
+    {
+     "id": 4414,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туындының қолданылуы",
+   "topic": "Туындының көмегімен функцияны зерттеу және оның графигін салу",
+   "objectives": [
+    "10.3.1.18"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Туындының қолданылуы",
+   "topic": "Функцияның кесіндідегі ең үлкен және ең кіші мәндері",
+   "objectives": [
+    "10.3.1.19",
+    "10.3.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кездейсоқ шамалар және олардың сандық сипаттамалары",
+   "topic": "Кездейсоқ шамалар",
+   "objectives": [
+    "10.2.1.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кездейсоқ шамалар және олардың сандық сипаттамалары",
+   "topic": "Дискретті және үздіксіз кездейсоқ шамалар",
+   "objectives": [
+    "10.2.1.5",
+    "10.2.1.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кездейсоқ шамалар және олардың сандық сипаттамалары",
+   "topic": "Дискретті кездейсоқ шамалардың сандық сипаттамалары",
+   "objectives": [
+    "10.2.1.7",
+    "10.2.1.8",
+    "10.2.1.9",
+    "10.2.1.10"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Алғашқы функция және интеграл",
+   "topic": "Алғашқы функция және анықталмаған интеграл. Анықталмаған интеграл қасиеттері",
+   "objectives": [
+    "11.3.1.1",
+    "11.3.1.2",
+    "11.3.1.3",
+    "1.2.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Алғашқы функция және интеграл",
+   "topic": "Қисықсызықты трапеция және оның ауданы. Анықталған интеграл.",
+   "objectives": [
+    "11.3.1.4",
+    "11.3.1.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Алғашқы функция және интеграл",
+   "topic": "Жазық фигуралар аудандары мен айналу денелерінің көлемдерін анықталған интеграл көмегімен есептеу",
+   "objectives": [
+    "11.3.1.6",
+    "11.3.1.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Дәреже мен түбір. Дәрежелік функция",
+   "topic": "n-ші дәрежелі түбір және оның қасиеттері",
+   "objectives": [
+    "11.1.1.1",
+    "11.1.1.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Дәреже мен түбір. Дәрежелік функция",
+   "topic": "Рационал көрсеткішті дәреже",
+   "objectives": [
+    "11.1.1.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Дәреже мен түбір. Дәрежелік функция",
+   "topic": "Рационал көрсеткішті дәрежесі бар өрнектерді түрлендіру",
+   "objectives": [
+    "11.1.1.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Дәреже мен түбір. Дәрежелік функция",
+   "topic": "Иррационал өрнектерді түрлендіру",
+   "objectives": [
+    "11.1.1.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Дәреже мен түбір. Дәрежелік функция",
+   "topic": "Дәрежелік функция, оның қасиеттері мен графигі",
+   "objectives": [
+    "11.3.1.8"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Дәреже мен түбір. Дәрежелік функция",
+   "topic": "Нақты көрсеткішті дәрежелік функцияның туындысы мен интегралы",
+   "objectives": [
+    "11.3.1.9",
+    "11.3.1.10"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Иррационал теңдеулер",
+   "topic": "Иррационал теңдеулер. Иррационал теңдеулерді шешу әдістері",
+   "objectives": [
+    "11.1.2.1",
+    "11.1.2.2",
+    "11.1.2.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік функциялар",
+   "topic": "Көрсеткіштік функция, оның қасиеттері мен графигі",
+   "objectives": [
+    "11.3.1.11",
+    "11.3.1.12"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік функциялар",
+   "topic": "Сан логарифмі және оның қасиеттері",
+   "objectives": [
+    "11.3.1.13",
+    "11.3.1.14"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік функциялар",
+   "topic": "Логарифмдік функция, оның қасиеттері мен графигі",
+   "objectives": [
+    "11.3.1.15"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік функциялар",
+   "topic": "Көрсеткіштік функцияның туындысы мен интегралы",
+   "objectives": [
+    "11.3.1.16"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік функциялар",
+   "topic": "Логарифмдік функцияның туындысы",
+   "objectives": [
+    "11.3.1.17"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік теңдеулер мен теңсіздіктер",
+   "topic": "Көрсеткіштік теңдеулер",
+   "objectives": [
+    "11.1.2.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік теңдеулер мен теңсіздіктер",
+   "topic": "Логарифмдік теңдеулер",
+   "objectives": [
+    "11.1.2.5"
+   ],
+   "plans": [
+    {
+     "id": 16,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік теңдеулер мен теңсіздіктер",
+   "topic": "Көрсеткіштік теңсіздіктер",
+   "objectives": [
+    "11.1.2.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Көрсеткіштік және логарифмдік теңдеулер мен теңсіздіктер",
+   "topic": "Логарифмдік теңсіздіктер",
+   "objectives": [
+    "11.1.2.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Математикалық статистика элементтері",
+   "topic": "Бас жиын және таңдама",
+   "objectives": [
+    "11.2.2.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Математикалық статистика элементтері",
+   "topic": "Дискретті және интервалды вариациялық қатарлар",
+   "objectives": [
+    "11.2.2.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 105,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Математикалық статистика элементтері",
+   "topic": "Кездейсоқ шаманың сандық сипаттамаларын таңдамалар бойынша бағалау",
+   "objectives": [
+    "11.2.2.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Стереометрия аксиомалары. Кеңістіктегі параллельдік",
+   "topic": "Стереометрия аксиомалары және олардың салдарлары",
+   "objectives": [
+    "10.2.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Стереометрия аксиомалары. Кеңістіктегі параллельдік",
+   "topic": "Кеңістіктегі түзулердің өзара орналасуы",
+   "objectives": [
+    "10.2.2",
+    "10.2.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Стереометрия аксиомалары. Кеңістіктегі параллельдік",
+   "topic": "Тетраэдр, параллелепипед",
+   "objectives": [
+    "10.1.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Стереометрия аксиомалары. Кеңістіктегі параллельдік",
+   "topic": "Түзу мен жазықтықтың өзара орналасуы. Жазықтықтардың параллельдігі",
+   "objectives": [
+    "10.2.4",
+    "10.2.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Кеңістіктегі перпендикулярлық",
+   "topic": "Түзу мен жазықтықтың перпендикулярлығы. Үш перпендикуляр туралы теорема",
+   "objectives": [
+    "10.2.6",
+    "10.2.7",
+    "10.2.8"
+   ],
+   "plans": [
+    {
+     "id": 6157,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Кеңістіктегі перпендикулярлық",
+   "topic": "Кеңістіктегі арақашықтықтар",
+   "objectives": [
+    "10.3.1",
+    "10.3.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Кеңістіктегі перпендикулярлық",
+   "topic": "Кеңістіктегі бұрыштар",
+   "objectives": [
+    "10.2.9",
+    "10.2.10",
+    "10.3.2",
+    "10.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Кеңістіктегі перпендикулярлық",
+   "topic": "Жазықтықтардың перпендикулярлығы",
+   "objectives": [
+    "10.3.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі перпендикулярлық",
+   "topic": "Тікбұрышты параллелепипед",
+   "objectives": [
+    "10.1.2",
+    "10.3.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі перпендикулярлық",
+   "topic": "Жазық фигураның жазықтыққа ортогональ проекциясы және оның ауданы",
+   "objectives": [
+    "10.2.11",
+    "10.3.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Кеңістіктегі векторлар және оларға амалдар қолдану. Коллинеар және компланар векторлар",
+   "objectives": [
+    "10.4.1",
+    "10.4.2",
+    "10.4.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Кеңістіктегі тікбұрышты координаталар жүйесі",
+   "objectives": [
+    "10.4.5",
+    "10.4.6"
+   ],
+   "plans": [
+    {
+     "id": 2856,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Кеңістіктегі вектордың координаталары",
+   "objectives": [
+    "10.4.11"
+   ],
+   "plans": [
+    {
+     "id": 3762,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Координатасымен берілген векторларды қосу және азайту, координатасымен берілген векторды санға көбейту",
+   "objectives": [
+    "10.4.13"
+   ],
+   "plans": [
+    {
+     "id": 4096,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Векторды үш компланар емес вектор бойынша жіктеу",
+   "objectives": [
+    "10.4.14",
+    "10.4.15"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Екі нүктенің арақашықтығы",
+   "objectives": [
+    "10.4.7",
+    "10.4.12"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Кесіндіні берілген қатынаста бөлу",
+   "objectives": [
+    "10.4.8"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Кесінді ортасының координаталары",
+   "objectives": [
+    "10.4.9"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Векторлардың скаляр көбейтіндісі",
+   "objectives": [
+    "10.4.4",
+    "10.4.16",
+    "10.4.17",
+    "10.4.18"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Сфера теңдеуі",
+   "objectives": [
+    "10.4.10"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Жазықтық теңдеуі",
+   "objectives": [
+    "10.4.19"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Кеңістіктегі түзудің теңдеуі",
+   "objectives": [
+    "10.4.20",
+    "10.4.21",
+    "10.4.22"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Көпжақты бұрыш, геометриялық дене туралы түсінік",
+   "objectives": [
+    "11.1.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Көпжақ ұғымы",
+   "objectives": [
+    "11.1.2",
+    "11.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Призма және оның элементтері, призма түрлері",
+   "objectives": [
+    "11.1.3",
+    "11.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Пpизманың жазбасы, бүйір және толық бетінің аудандары",
+   "objectives": [
+    "11.3.1",
+    "11.1.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Пирамида және оның элементтері. Дұрыс пирамида",
+   "objectives": [
+    "11.1.4",
+    "11.2.4",
+    "11.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Қиық пирамида",
+   "objectives": [
+    "11.1.5",
+    "11.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Пирамиданың, қиық пирамиданың жазбасы, бүйір беті және толық бетінің аудандары",
+   "objectives": [
+    "11.3.2",
+    "11.1.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Көпжақтардың жазықтықпен қималары",
+   "objectives": [
+    "11.2.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Дұрыс көпжақтар",
+   "objectives": [
+    "11.1.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Кеңістіктегі түзу мен жазықтық теңдеулерінің қолданылуы",
+   "topic": "Кеңістіктегі түзу мен жазықтықтың өзара орналасуы",
+   "objectives": [
+    "11.2.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Кеңістіктегі түзу мен жазықтық теңдеулерінің қолданылуы",
+   "topic": "Кеңістіктегі нүктеден жазықтыққа дейінгі арақашықтық",
+   "objectives": [
+    "11.4.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Кеңістіктегі түзу мен жазықтық теңдеулерінің қолданылуы",
+   "topic": "Кеңістіктегі түзулер арасындағы бұрышты, түзу мен жазықтық арасындағы бұрышты табу",
+   "objectives": [
+    "11.4.2",
+    "11.4.3",
+    "11.4.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Цилиндр және оның элементтері. Цилиндрдің жазбасы, бүйір және толық бетінің аудандары",
+   "objectives": [
+    "11.1.7",
+    "11.3.4",
+    "11.3.5",
+    "11.1.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Конус және оның элементтері. Конустың жазбасы, бүйір және толық бетінің аудандары",
+   "objectives": [
+    "11.1.8",
+    "11.3.5",
+    "11.3.6",
+    "11.1.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Қиық конус және оның элементтері. Қиық конустың жазбасы, бүйір және толық бетінің аудандары",
+   "objectives": [
+    "11.1.9",
+    "11.3.5",
+    "11.3.7",
+    "11.1.11"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Сфера, шар және олардың элементтері. Сфера бетінің ауданы",
+   "objectives": [
+    "11.1.10",
+    "11.3.8"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Сфераға жүргізілген жанама жазықтық",
+   "objectives": [
+    "11.2.3",
+    "11.4.4",
+    "11.3.9",
+    "11.3.10"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Цилиндр, конус және шардың жазықтықпен қималары",
+   "objectives": [
+    "11.2.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелердің көлемдері",
+   "topic": "Денелер көлемдерінің жалпы қасиеттері",
+   "objectives": [
+    "11.3.11"
+   ],
+   "plans": [
+    {
+     "id": 6324,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелердің көлемдері",
+   "topic": "Призма көлемі",
+   "objectives": [
+    "11.3.12"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелердің көлемдері",
+   "topic": "Пирамида және қиық пирамида көлемдері",
+   "objectives": [
+    "11.3.13"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелердің көлемдері",
+   "topic": "Цилиндр көлемі",
+   "objectives": [
+    "11.3.14"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелердің көлемдері",
+   "topic": "Конус және қиық конус көлемдері",
+   "objectives": [
+    "11.3.15"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелердің көлемдері",
+   "topic": "Кеңістік фигураларының ұқсастығы",
+   "objectives": [
+    "11.3.17"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелердің көлемдері",
+   "topic": "Шар және оның бөліктерінің көлемдері",
+   "objectives": [
+    "11.3.16"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 106,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелердің көлемдері",
+   "topic": "Геометриялық денелердің комбинациялары",
+   "objectives": [
+    "11.2.5",
+    "11.3.18"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Стереометрия аксиомалары. Кеңістіктегі түзулер мен жазықтықтар өзара орналасуы",
+   "topic": "Стереометрия аксиомалары және олардың салдарлары",
+   "objectives": [
+    "10.2.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Стереометрия аксиомалары. Кеңістіктегі түзулер мен жазықтықтар өзара орналасуы",
+   "topic": "Кеңістіктегі екі түзудің өзара орналасуы",
+   "objectives": [
+    "10.2.2",
+    "10.2.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Стереометрия аксиомалары. Кеңістіктегі түзулер мен жазықтықтар өзара орналасуы",
+   "topic": "Түзу мен жазықтықтың өзара орналасуы",
+   "objectives": [
+    "10.2.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "1-тоқсан",
+   "section": "Стереометрия аксиомалары. Кеңістіктегі түзулер мен жазықтықтар өзара орналасуы",
+   "topic": "Екі жазықтықтың өзара орналасуы",
+   "objectives": [
+    "10.2.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Кеңістіктегі бұрыш. Кеңістіктегі арақашықтық",
+   "topic": "Кеңістіктегі түзулер арасындағы бұрыш",
+   "objectives": [
+    "10.2.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Кеңістіктегі бұрыш. Кеңістіктегі арақашықтық",
+   "topic": "Перпендикуляр және көлбеу",
+   "objectives": [
+    "10.3.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "2-тоқсан",
+   "section": "Кеңістіктегі бұрыш. Кеңістіктегі арақашықтық",
+   "topic": "Үш перпендикуляр туралы теорема",
+   "objectives": [
+    "10.3.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі бұрыш. Кеңістіктегі арақашықтық",
+   "topic": "Түзу мен жазықтық арасындағы бұрыш",
+   "objectives": [
+    "10.3.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі бұрыш. Кеңістіктегі арақашықтық",
+   "topic": "Екі жазықтық арасындағы бұрыш. Екіжақты бұрыш",
+   "objectives": [
+    "10.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі бұрыш. Кеңістіктегі арақашықтық",
+   "topic": "Кеңістіктегі арақашықтық.",
+   "objectives": [
+    "10.3.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Кеңістіктегі тікбұрышты координаталар жүйесі",
+   "objectives": [
+    "10.4.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Екі нүктенің арақашықтығы",
+   "objectives": [
+    "10.4.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Кесінді ортасының координаталары",
+   "objectives": [
+    "10.4.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "3-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Сфера теңдеуі",
+   "objectives": [
+    "10.4.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Кеңістіктегі вектордың координаталары",
+   "objectives": [
+    "10.4.5"
+   ],
+   "plans": [
+    {
+     "id": 3762,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    },
+    {
+     "id": 2856,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Векторлардың коллинеарлығы және компланарлығы",
+   "objectives": [
+    "10.4.6"
+   ],
+   "plans": [
+    {
+     "id": 2856,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Векторларды қосу, векторды санға көбейту",
+   "objectives": [
+    "10.4.7"
+   ],
+   "plans": [
+    {
+     "id": 4096,
+     "how": "тақырып атауы бойынша (тексеру керек)"
+    }
+   ]
+  },
+  {
+   "annex": 107,
+   "grade": 10,
+   "quarter": "4-тоқсан",
+   "section": "Кеңістіктегі тікбұрышты координаталар жүйесі және векторлар",
+   "topic": "Векторлардың скаляр көбейтіндісі",
+   "objectives": [
+    "10.4.8"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Көпжақ ұғымы",
+   "objectives": [
+    "11.1.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Призма және оның элементтері. Тік және дұрыс призма",
+   "objectives": [
+    "11.1.2",
+    "11.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Тікбұрышты параллелепипед және оның қасиеттері",
+   "objectives": [
+    "11.1.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Пpизманың жазбасы, бүйір және толық бетінің аудандары",
+   "objectives": [
+    "11.1.11",
+    "11.3.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Пирамида және оның элементтері",
+   "objectives": [
+    "11.1.4",
+    "11.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "1-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Қиық пирамида",
+   "objectives": [
+    "11.1.5",
+    "11.3.3"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Пирамиданың жазбасы, бүйір және толық бетінің аудандары",
+   "objectives": [
+    "11.1.11",
+    "11.3.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Қиық пирамида бетінің ауданы",
+   "objectives": [
+    "11.3.2"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "2-тоқсан",
+   "section": "Көпжақтар",
+   "topic": "Дұрыс көпжақтар",
+   "objectives": [
+    "11.1.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Цилиндр және оның элементтері",
+   "objectives": [
+    "11.1.7",
+    "11.3.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Цилиндрдің жазбасы, бүйір және толық бетінің аудандары",
+   "objectives": [
+    "11.1.11",
+    "11.3.5"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Конус және оның элементтері",
+   "objectives": [
+    "11.1.8",
+    "11.3.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Конустың жазбасы, бүйір және толық бетінің аудандары",
+   "objectives": [
+    "11.1.11",
+    "11.3.6"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Қиық конус және оның элементтері",
+   "objectives": [
+    "11.1.9",
+    "11.3.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Қиық конус бетінің ауданы",
+   "objectives": [
+    "11.3.7"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Сфера және шар",
+   "objectives": [
+    "11.1.10",
+    "11.2.2",
+    "11.3.4"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Сфера бетінің ауданы",
+   "objectives": [
+    "11.3.8"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "3-тоқсан",
+   "section": "Айналу денелері және олардың элементтері",
+   "topic": "Айналу денелерінің жазықтықпен қималары",
+   "objectives": [
+    "11.2.1"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелер көлемдері",
+   "topic": "Денелер көлемдерінің жалпы қасиеттері",
+   "objectives": [
+    "11.3.9"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелер көлемдері",
+   "topic": "Призма көлемі",
+   "objectives": [
+    "11.3.10"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелер көлемдері",
+   "topic": "Пирамида және қиық пирамида көлемдері",
+   "objectives": [
+    "11.3.11"
+   ],
+   "plans": [
+    {
+     "id": 6324,
+     "how": "оқу мақсатының коды бойынша"
+    }
+   ]
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелер көлемдері",
+   "topic": "Цилиндр көлемі",
+   "objectives": [
+    "11.3.12"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелер көлемдері",
+   "topic": "Конус және қиық конус көлемдері",
+   "objectives": [
+    "11.3.13"
+   ],
+   "plans": []
+  },
+  {
+   "annex": 107,
+   "grade": 11,
+   "quarter": "4-тоқсан",
+   "section": "Денелер көлемдері",
+   "topic": "Шар көлемі",
+   "objectives": [
+    "11.3.14"
+   ],
+   "plans": []
+  }
+ ]
+}
