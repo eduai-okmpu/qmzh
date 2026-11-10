@@ -74,6 +74,7 @@
   - [7 сынып Алгебра ҚМЖ 3 тоқсан](https://ust.kz/word/7_synyp_algebra_qmj_3_toqsan-372553.html) — 28 сабақ жинағы
   - [алгебра 7 сынып  3 тоқсан қмж толық 130 бұйрық](https://ust.kz/word/algebra_7_synyp_3_toqsan_qmj_tolyq_130_buiryq-369863.html) — 28 сабақ жинағы
   - [Алгебра пәнінен ҚМЖ 3 тоқсан](https://ust.kz/word/algebra_paninen_qmj_3_toqsan-378944.html) — 13 сабақ жинағы
+  - [ҚМЖ Алгебра 7 сынып](https://ust.kz/word/qmj_algebra_7_synyp-331830.html)
 - **Қысқаша көбейту формулаларының көмегімен өрнектерді түрлендіру** `7.1.2.14, 7.2.1.14, 7.2.1.15`
   - [7 сынып Алгебра ҚМЖ 3 тоқсан](https://ust.kz/word/7_synyp_algebra_qmj_3_toqsan-372553.html) — 28 сабақ жинағы
   - [алгебра 7 сынып  3 тоқсан қмж толық 130 бұйрық](https://ust.kz/word/algebra_7_synyp_3_toqsan_qmj_tolyq_130_buiryq-369863.html) — 28 сабақ жинағы
